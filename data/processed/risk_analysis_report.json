@@ -1,0 +1,31 @@
+{
+  "history_start_date": "2023-01-12",
+  "history_end_date": "2025-12-21",
+  "forecast_start_date": "2025-12-22",
+  "forecast_end_date": "2026-01-20",
+  "forecast_rows_assessed": 102,
+  "historical_thresholds": {
+    "hhs_care_load": {
+      "label": "Children in HHS Care",
+      "observed_count": 720,
+      "historical_median": 6406.5,
+      "historical_75th_percentile": 8010.25,
+      "historical_90th_percentile": 9762.0,
+      "threshold_interpretation": "Descriptive historical percentile, not an operational capacity limit."
+    },
+    "hhs_discharges": {
+      "label": "Children discharged from HHS Care",
+      "observed_count": 720,
+      "historical_median": 181.0,
+      "historical_75th_percentile": 267.0,
+      "historical_90th_percentile": 335.0,
+      "threshold_interpretation": "Descriptive historical percentile, not an operational capacity limit."
+    }
+  },
+  "interpretation_notes": [
+    "Percentile thresholds are derived from observed historical values and are descriptive only.",
+    "No facility capacity or staffing thresholds are supplied by this dataset, so no capacity breach is inferred.",
+    "Empirical forecast bands use next-observed-report errors and are not calibrated separately for calendar-day horizons.",
+    "The supplied data ends on 2025-12-21; forecast dates are historical projections from that origin, not current operational forecasts."
+  ]
+}

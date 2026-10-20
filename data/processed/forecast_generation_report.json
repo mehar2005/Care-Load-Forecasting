@@ -1,0 +1,25 @@
+{
+  "history_start_date": "2023-01-12",
+  "history_end_date": "2025-12-21",
+  "last_observed_care_load": 2484.0,
+  "discharge_point_forecast": 9.0,
+  "forecast_horizons_calendar_days": [
+    7,
+    14,
+    30
+  ],
+  "forecast_dates_begin": "2025-12-22",
+  "forecast_dates_end": "2026-01-20",
+  "uncertainty_radii": {
+    "hhs_care_load": 1498.3958890692654,
+    "hhs_discharges": 115.10247604120579
+  },
+  "uncertainty_method": "90th percentile of rolling out-of-fold absolute errors; observed-report horizon, not calendar-day calibrated.",
+  "limitations": [
+    "Calendar gaps in the source were not imputed.",
+    "Care-load forecast is a persistence baseline; it is not a fitted multi-step dynamic model.",
+    "Discharge forecast uses the median of the latest 28 observed reports.",
+    "Empirical error bands are calibrated on next-observed-report errors and are not validated for each calendar-day horizon.",
+    "Use as a transparent baseline only; do not interpret as operational advice or a guaranteed prediction interval."
+  ]
+}

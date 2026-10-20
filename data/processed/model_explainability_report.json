@@ -1,0 +1,36 @@
+{
+  "comparison_source": "data/processed/forecast_model_metrics.csv",
+  "holdout_best_by_mae": {
+    "hhs_care_load": {
+      "model": "Naive Persistence",
+      "mae": 10.422535211267606,
+      "rmse": 14.207714627257175,
+      "r2": 0.9934916667641116
+    },
+    "hhs_discharges": {
+      "model": "Naive Persistence",
+      "mae": 5.633802816901408,
+      "rmse": 7.638855455894969,
+      "r2": -0.4420236658108085
+    }
+  },
+  "diagnostic_random_forest": {
+    "hhs_care_load": {
+      "mae": 96.52812301606706,
+      "rmse": 114.08414590374653
+    },
+    "hhs_discharges": {
+      "mae": 8.476107940913009,
+      "rmse": 11.73072618350192
+    }
+  },
+  "feature_importance_method": "Permutation importance on chronological holdout; importance is the increase in MAE after shuffling a feature.",
+  "limitations": [
+    "Permutation importance measures predictive usefulness for this split, not causation.",
+    "Correlated features can share or dilute importance.",
+    "The target is the next observed report, not necessarily the next calendar day.",
+    "The supplied data ends on 2025-12-21; results are historical experiments, not current operational forecasts.",
+    "The existing benchmark results and diagnostic Random Forest results are reported separately because their evaluation purpose differs."
+  ],
+  "rolling_validation_rows": 6
+}

@@ -1,0 +1,104 @@
+{
+  "validation_method": "expanding-window rolling-origin validation",
+  "fold_count": 5,
+  "initial_training_fraction": 0.5,
+  "random_shuffling": false,
+  "target_alignment": "Features at one observed report predict the target at the next observed report.",
+  "calendar_gaps_imputed": false,
+  "interval_method": "90th percentile of rolling out-of-fold absolute errors, used as a symmetric empirical error band.",
+  "interval_caveat": "Bands are empirical and not guaranteed calibrated prediction intervals; future work should test horizon-specific coverage.",
+  "results": [
+    {
+      "target": "hhs_care_load",
+      "model": "Naive Persistence",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 39.46348314606742,
+      "rmse": 74.71862950767779,
+      "r2": 0.9983157148165763,
+      "empirical_90_band_radius": 98.0,
+      "empirical_90_band_coverage": 0.9073033707865169
+    },
+    {
+      "target": "hhs_care_load",
+      "model": "Random Forest",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 462.31642329964586,
+      "rmse": 754.8212481514944,
+      "r2": 0.8281117985647356,
+      "empirical_90_band_radius": 1495.2958890692653,
+      "empirical_90_band_coverage": 0.898876404494382
+    },
+    {
+      "target": "hhs_care_load",
+      "model": "HistGradientBoosting",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 646.6088922145185,
+      "rmse": 952.0603954382104,
+      "r2": 0.7265443933546987,
+      "empirical_90_band_radius": 1771.8332082833413,
+      "empirical_90_band_coverage": 0.898876404494382
+    },
+    {
+      "target": "hhs_discharges",
+      "model": "Naive Persistence",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 17.553370786516854,
+      "rmse": 28.131063640982962,
+      "r2": 0.8656229260954544,
+      "empirical_90_band_radius": 51.0,
+      "empirical_90_band_coverage": 0.901685393258427
+    },
+    {
+      "target": "hhs_discharges",
+      "model": "HistGradientBoosting",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 42.59249799597274,
+      "rmse": 68.74074810980538,
+      "r2": 0.19761762204564404,
+      "empirical_90_band_radius": 147.91210396530522,
+      "empirical_90_band_coverage": 0.898876404494382
+    },
+    {
+      "target": "hhs_discharges",
+      "model": "Random Forest",
+      "validation_folds": 5,
+      "validation_observations": 356,
+      "mae": 42.89683917959749,
+      "rmse": 66.90391201312919,
+      "r2": 0.23992596153868562,
+      "empirical_90_band_radius": 135.80440909090908,
+      "empirical_90_band_coverage": 0.898876404494382
+    }
+  ],
+  "intervals": {
+    "hhs_care_load|HistGradientBoosting": {
+      "absolute_error_90th_percentile": 1771.8332082833413,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    },
+    "hhs_care_load|Naive Persistence": {
+      "absolute_error_90th_percentile": 98.0,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    },
+    "hhs_care_load|Random Forest": {
+      "absolute_error_90th_percentile": 1495.2958890692653,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    },
+    "hhs_discharges|HistGradientBoosting": {
+      "absolute_error_90th_percentile": 147.91210396530522,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    },
+    "hhs_discharges|Naive Persistence": {
+      "absolute_error_90th_percentile": 51.0,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    },
+    "hhs_discharges|Random Forest": {
+      "absolute_error_90th_percentile": 135.80440909090908,
+      "interpretation": "Empirical symmetric error band calibrated on rolling validation errors; not a guaranteed prediction interval."
+    }
+  }
+}

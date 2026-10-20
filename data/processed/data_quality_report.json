@@ -1,0 +1,49 @@
+{
+    "source_file": "HHS_Unaccompanied_Alien_Children_Program.csv",
+    "original_rows": 720,
+    "rows_after_cleaning": 720,
+    "columns_after_standardization": [
+        "date",
+        "cbp_daily_intake",
+        "cbp_custody",
+        "transfers_from_cbp_to_hhs",
+        "hhs_care_load",
+        "hhs_discharges"
+    ],
+    "invalid_dates_removed": 0,
+    "rows_with_invalid_numeric_values_removed": 0,
+    "invalid_numeric_cells_before_row_removal": 0,
+    "duplicate_date_rows_removed": 0,
+    "remaining_missing_cells": 0,
+    "negative_value_counts_by_column": {
+        "cbp_daily_intake": 0,
+        "cbp_custody": 0,
+        "transfers_from_cbp_to_hhs": 0,
+        "hhs_care_load": 0,
+        "hhs_discharges": 0
+    },
+    "start_date": "2023-01-12",
+    "end_date": "2025-12-21",
+    "observed_unique_dates": 720,
+    "calendar_days_in_range": 1075,
+    "calendar_dates_without_observations": 355,
+    "observation_interval_days_counts": {
+        "1": 558,
+        "2": 10,
+        "3": 122,
+        "4": 23,
+        "5": 3,
+        "6": 1,
+        "7": 1,
+        "10": 1
+    },
+    "observations_by_weekday": {
+        "Tuesday": 149,
+        "Thursday": 147,
+        "Wednesday": 147,
+        "Monday": 145,
+        "Sunday": 130,
+        "Friday": 2
+    },
+    "missing_dates_handling": "Not imputed; retained as explicit gaps in the calendar file."
+}

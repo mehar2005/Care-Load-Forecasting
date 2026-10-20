@@ -1,0 +1,177 @@
+{
+    "dataset_rows": 720,
+    "dataset_columns": 6,
+    "start_date": "2023-01-12",
+    "end_date": "2025-12-21",
+    "observed_date_count": 720,
+    "numeric_summary_statistics": {
+        "cbp_daily_intake": {
+            "count": 720.0,
+            "mean": 93.524,
+            "std": 72.647,
+            "min": 0.0,
+            "25%": 12.0,
+            "50%": 99.0,
+            "75%": 147.25,
+            "max": 333.0
+        },
+        "cbp_custody": {
+            "count": 720.0,
+            "mean": 171.494,
+            "std": 126.355,
+            "min": 7.0,
+            "25%": 36.0,
+            "50%": 193.0,
+            "75%": 263.25,
+            "max": 531.0
+        },
+        "transfers_from_cbp_to_hhs": {
+            "count": 720.0,
+            "mean": 128.668,
+            "std": 97.322,
+            "min": 0.0,
+            "25%": 14.0,
+            "50%": 157.0,
+            "75%": 199.25,
+            "max": 440.0
+        },
+        "hhs_care_load": {
+            "count": 720.0,
+            "mean": 6061.275,
+            "std": 2833.07,
+            "min": 1972.0,
+            "25%": 2467.75,
+            "50%": 6406.5,
+            "75%": 8010.25,
+            "max": 11516.0
+        },
+        "hhs_discharges": {
+            "count": 720.0,
+            "mean": 173.407,
+            "std": 125.703,
+            "min": 0.0,
+            "25%": 19.75,
+            "50%": 181.0,
+            "75%": 267.0,
+            "max": 505.0
+        }
+    },
+    "pearson_correlations": {
+        "cbp_daily_intake": {
+            "cbp_daily_intake": 1.0,
+            "cbp_custody": 0.9506036241568304,
+            "transfers_from_cbp_to_hhs": 0.8878957870938253,
+            "hhs_care_load": 0.6913116334537269,
+            "hhs_discharges": 0.6277554498885336
+        },
+        "cbp_custody": {
+            "cbp_daily_intake": 0.9506036241568304,
+            "cbp_custody": 1.0,
+            "transfers_from_cbp_to_hhs": 0.9250393040925359,
+            "hhs_care_load": 0.6636623906221457,
+            "hhs_discharges": 0.6021440563994304
+        },
+        "transfers_from_cbp_to_hhs": {
+            "cbp_daily_intake": 0.8878957870938253,
+            "cbp_custody": 0.9250393040925359,
+            "transfers_from_cbp_to_hhs": 1.0,
+            "hhs_care_load": 0.7138990081639648,
+            "hhs_discharges": 0.65732201117121
+        },
+        "hhs_care_load": {
+            "cbp_daily_intake": 0.6913116334537269,
+            "cbp_custody": 0.6636623906221457,
+            "transfers_from_cbp_to_hhs": 0.7138990081639648,
+            "hhs_care_load": 1.0,
+            "hhs_discharges": 0.9208808606948663
+        },
+        "hhs_discharges": {
+            "cbp_daily_intake": 0.6277554498885336,
+            "cbp_custody": 0.6021440563994304,
+            "transfers_from_cbp_to_hhs": 0.65732201117121,
+            "hhs_care_load": 0.9208808606948663,
+            "hhs_discharges": 1.0
+        }
+    },
+    "strongest_pairwise_correlations": [
+        {
+            "variable_1": "cbp_daily_intake",
+            "variable_2": "cbp_custody",
+            "pearson_correlation": 0.9506
+        },
+        {
+            "variable_1": "cbp_custody",
+            "variable_2": "transfers_from_cbp_to_hhs",
+            "pearson_correlation": 0.925
+        },
+        {
+            "variable_1": "hhs_care_load",
+            "variable_2": "hhs_discharges",
+            "pearson_correlation": 0.9209
+        },
+        {
+            "variable_1": "cbp_daily_intake",
+            "variable_2": "transfers_from_cbp_to_hhs",
+            "pearson_correlation": 0.8879
+        },
+        {
+            "variable_1": "transfers_from_cbp_to_hhs",
+            "variable_2": "hhs_care_load",
+            "pearson_correlation": 0.7139
+        },
+        {
+            "variable_1": "cbp_daily_intake",
+            "variable_2": "hhs_care_load",
+            "pearson_correlation": 0.6913
+        },
+        {
+            "variable_1": "cbp_custody",
+            "variable_2": "hhs_care_load",
+            "pearson_correlation": 0.6637
+        },
+        {
+            "variable_1": "transfers_from_cbp_to_hhs",
+            "variable_2": "hhs_discharges",
+            "pearson_correlation": 0.6573
+        },
+        {
+            "variable_1": "cbp_daily_intake",
+            "variable_2": "hhs_discharges",
+            "pearson_correlation": 0.6278
+        },
+        {
+            "variable_1": "cbp_custody",
+            "variable_2": "hhs_discharges",
+            "pearson_correlation": 0.6021
+        }
+    ],
+    "reporting_patterns": {
+        "interval_day_counts": {
+            "1": 558,
+            "2": 10,
+            "3": 122,
+            "4": 23,
+            "5": 3,
+            "6": 1,
+            "7": 1,
+            "10": 1
+        },
+        "weekday_observation_counts": {
+            "Monday": 145,
+            "Tuesday": 149,
+            "Wednesday": 147,
+            "Thursday": 147,
+            "Friday": 2,
+            "Saturday": 0,
+            "Sunday": 130
+        },
+        "median_interval_days": 1.0,
+        "mean_interval_days": 1.493741307371349
+    },
+    "analysis_notes": [
+        "The observations are irregularly spaced; line charts connect observed records only and do not imply values were recorded on every intervening day.",
+        "Correlation is descriptive and does not establish causation.",
+        "Outliers should be investigated with domain context rather than removed automatically.",
+        "Forecasting validation must respect chronological order and account for the observation cadence."
+    ]
+}

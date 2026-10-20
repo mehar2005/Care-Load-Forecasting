@@ -1,0 +1,94 @@
+{
+  "title": "Section 14 Quality Assurance and Integration Checks",
+  "project": "Care Load & Placement Demand Forecasting",
+  "checks": [
+    {
+      "module": "data_preparation",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "eda",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "feature_engineering",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "forecasting",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "validation",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "forecast_generation",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "forecast_visualization",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "risk_analysis",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "model_explainability",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "automated_insights",
+      "status": "PASS",
+      "note": "Executed successfully as an individual module during QA."
+    },
+    {
+      "module": "compileall",
+      "status": "PASS",
+      "note": "Python syntax compilation completed successfully."
+    }
+  ],
+  "required_artifacts": [
+    {
+      "path": "data/raw/HHS_Unaccompanied_Alien_Children_Program.csv",
+      "exists": true,
+      "size_bytes": 23742
+    },
+    {
+      "path": "data/processed/cleaned_care_load.csv",
+      "exists": true,
+      "size_bytes": 21710
+    },
+    {
+      "path": "data/processed/future_forecasts.csv",
+      "exists": true,
+      "size_bytes": 25765
+    },
+    {
+      "path": "data/processed/forecast_risk_indicators.csv",
+      "exists": true,
+      "size_bytes": 21666
+    },
+    {
+      "path": "reports/final_research_report.docx",
+      "exists": true,
+      "size_bytes": 810019
+    },
+    {
+      "path": "app.py",
+      "exists": true,
+      "size_bytes": 7937
+    }
+  ],
+  "scope_note": "Each listed Python module was executed successfully in this session; compileall also passed. The combined batch execution exceeded the time limit while running model explainability, which then passed when rerun individually. This does not constitute a live browser/UI acceptance test of the Streamlit dashboard or independent validation of forecasting assumptions."
+}

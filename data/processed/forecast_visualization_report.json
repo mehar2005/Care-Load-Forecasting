@@ -1,0 +1,24 @@
+{
+  "history_start_date": "2023-01-12",
+  "history_end_date": "2025-12-21",
+  "historical_observations": 720,
+  "forecast_rows": 102,
+  "horizons_calendar_days": [
+    7,
+    14,
+    30
+  ],
+  "summary_rows": 6,
+  "figures": [
+    "reports/figures/08_hhs_care_load_historical_forecast.png",
+    "reports/figures/08_hhs_discharges_historical_forecast.png",
+    "reports/figures/09_forecast_summary_table.png",
+    "reports/figures/10_forecast_horizon_comparison.png"
+  ],
+  "caveats": [
+    "The forecast origin is the final date in the supplied dataset, not the current date.",
+    "Forecasts are simple baselines, not operationally validated predictions.",
+    "Empirical bands are based on next-observed-report errors and are not calibrated by calendar-day horizon.",
+    "The source data has missing calendar dates; no missing historical values were invented."
+  ]
+}

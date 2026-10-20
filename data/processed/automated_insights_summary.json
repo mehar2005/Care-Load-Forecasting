@@ -1,0 +1,77 @@
+{
+  "project_title": "Predictive Forecasting of Care Load & Placement Demand",
+  "dataset": {
+    "rows": 720,
+    "columns": 6,
+    "start_date": "2023-01-12",
+    "end_date": "2025-12-21",
+    "calendar_days_in_range": 1075,
+    "observed_dates": 720,
+    "dates_without_observations": 355,
+    "missing_cells_after_cleaning": 0
+  },
+  "descriptive_findings": {
+    "hhs_care_load_mean": 6061.275,
+    "hhs_care_load_min": 1972.0,
+    "hhs_care_load_max": 11516.0,
+    "hhs_discharges_mean": 173.407,
+    "hhs_discharges_min": 0.0,
+    "hhs_discharges_max": 505.0,
+    "strongest_pairwise_correlations": [
+      {
+        "variable_1": "cbp_daily_intake",
+        "variable_2": "cbp_custody",
+        "pearson_correlation": 0.9506
+      },
+      {
+        "variable_1": "cbp_custody",
+        "variable_2": "transfers_from_cbp_to_hhs",
+        "pearson_correlation": 0.925
+      },
+      {
+        "variable_1": "hhs_care_load",
+        "variable_2": "hhs_discharges",
+        "pearson_correlation": 0.9209
+      },
+      {
+        "variable_1": "cbp_daily_intake",
+        "variable_2": "transfers_from_cbp_to_hhs",
+        "pearson_correlation": 0.8879
+      },
+      {
+        "variable_1": "transfers_from_cbp_to_hhs",
+        "variable_2": "hhs_care_load",
+        "pearson_correlation": 0.7139
+      }
+    ]
+  },
+  "holdout_best_models_by_mae": {
+    "hhs_care_load": {
+      "model": "Naive Persistence",
+      "mae": 10.422535211267606,
+      "rmse": 14.207714627257175,
+      "r2": 0.9934916667641116,
+      "test_observations": 142,
+      "test_start_date": "2025-05-18",
+      "test_end_date": "2025-12-21"
+    },
+    "hhs_discharges": {
+      "model": "Naive Persistence",
+      "mae": 5.633802816901408,
+      "rmse": 7.638855455894969,
+      "r2": -0.4420236658108085,
+      "test_observations": 142,
+      "test_start_date": "2025-05-18",
+      "test_end_date": "2025-12-21"
+    }
+  },
+  "rolling_validation_available": true,
+  "risk_summary_available": true,
+  "limitations": [
+    "The source ends on 2025-12-21; forecasts from this snapshot are not current operational estimates.",
+    "There are missing calendar dates. They were not imputed, and a next-observation forecast is not equivalent to a next-calendar-day forecast.",
+    "Pearson correlations are descriptive and do not imply causation; time trends and correlated variables may affect them.",
+    "Historical percentile risk flags are not capacity alerts because facility capacity and staffing thresholds are not provided.",
+    "Empirical error bands are not guaranteed prediction intervals and should not be interpreted as calibrated coverage guarantees."
+  ]
+}

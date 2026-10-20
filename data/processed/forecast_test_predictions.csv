@@ -1,0 +1,1137 @@
+target,model,date,actual,predicted
+hhs_care_load,Naive Persistence,2025-05-18,2437.0,2410.0
+hhs_care_load,Naive Persistence,2025-05-19,2457.0,2437.0
+hhs_care_load,Naive Persistence,2025-05-21,2467.0,2457.0
+hhs_care_load,Naive Persistence,2025-05-22,2473.0,2467.0
+hhs_care_load,Naive Persistence,2025-05-27,2504.0,2473.0
+hhs_care_load,Naive Persistence,2025-05-28,2499.0,2504.0
+hhs_care_load,Naive Persistence,2025-05-29,2506.0,2499.0
+hhs_care_load,Naive Persistence,2025-06-01,2528.0,2506.0
+hhs_care_load,Naive Persistence,2025-06-02,2518.0,2528.0
+hhs_care_load,Naive Persistence,2025-06-03,2519.0,2518.0
+hhs_care_load,Naive Persistence,2025-06-04,2516.0,2519.0
+hhs_care_load,Naive Persistence,2025-06-05,2503.0,2516.0
+hhs_care_load,Naive Persistence,2025-06-08,2507.0,2503.0
+hhs_care_load,Naive Persistence,2025-06-09,2516.0,2507.0
+hhs_care_load,Naive Persistence,2025-06-10,2511.0,2516.0
+hhs_care_load,Naive Persistence,2025-06-17,2523.0,2511.0
+hhs_care_load,Naive Persistence,2025-06-19,2501.0,2523.0
+hhs_care_load,Naive Persistence,2025-06-22,2508.0,2501.0
+hhs_care_load,Naive Persistence,2025-06-23,2495.0,2508.0
+hhs_care_load,Naive Persistence,2025-06-24,2489.0,2495.0
+hhs_care_load,Naive Persistence,2025-06-25,2470.0,2489.0
+hhs_care_load,Naive Persistence,2025-06-26,2447.0,2470.0
+hhs_care_load,Naive Persistence,2025-06-29,2413.0,2447.0
+hhs_care_load,Naive Persistence,2025-06-30,2407.0,2413.0
+hhs_care_load,Naive Persistence,2025-07-01,2391.0,2407.0
+hhs_care_load,Naive Persistence,2025-07-02,2373.0,2391.0
+hhs_care_load,Naive Persistence,2025-07-06,2332.0,2373.0
+hhs_care_load,Naive Persistence,2025-07-07,2317.0,2332.0
+hhs_care_load,Naive Persistence,2025-07-08,2306.0,2317.0
+hhs_care_load,Naive Persistence,2025-07-09,2281.0,2306.0
+hhs_care_load,Naive Persistence,2025-07-10,2252.0,2281.0
+hhs_care_load,Naive Persistence,2025-07-13,2204.0,2252.0
+hhs_care_load,Naive Persistence,2025-07-14,2181.0,2204.0
+hhs_care_load,Naive Persistence,2025-07-15,2171.0,2181.0
+hhs_care_load,Naive Persistence,2025-07-16,2164.0,2171.0
+hhs_care_load,Naive Persistence,2025-07-17,2153.0,2164.0
+hhs_care_load,Naive Persistence,2025-07-21,2121.0,2153.0
+hhs_care_load,Naive Persistence,2025-07-22,2117.0,2121.0
+hhs_care_load,Naive Persistence,2025-07-23,2111.0,2117.0
+hhs_care_load,Naive Persistence,2025-07-24,2096.0,2111.0
+hhs_care_load,Naive Persistence,2025-07-27,2088.0,2096.0
+hhs_care_load,Naive Persistence,2025-07-28,2080.0,2088.0
+hhs_care_load,Naive Persistence,2025-07-29,2072.0,2080.0
+hhs_care_load,Naive Persistence,2025-07-30,2063.0,2072.0
+hhs_care_load,Naive Persistence,2025-07-31,2058.0,2063.0
+hhs_care_load,Naive Persistence,2025-08-03,2049.0,2058.0
+hhs_care_load,Naive Persistence,2025-08-04,2040.0,2049.0
+hhs_care_load,Naive Persistence,2025-08-05,2042.0,2040.0
+hhs_care_load,Naive Persistence,2025-08-06,2036.0,2042.0
+hhs_care_load,Naive Persistence,2025-08-07,2031.0,2036.0
+hhs_care_load,Naive Persistence,2025-08-10,2006.0,2031.0
+hhs_care_load,Naive Persistence,2025-08-11,1999.0,2006.0
+hhs_care_load,Naive Persistence,2025-08-12,1999.0,1999.0
+hhs_care_load,Naive Persistence,2025-08-13,1997.0,1999.0
+hhs_care_load,Naive Persistence,2025-08-14,1994.0,1997.0
+hhs_care_load,Naive Persistence,2025-08-17,1991.0,1994.0
+hhs_care_load,Naive Persistence,2025-08-18,1985.0,1991.0
+hhs_care_load,Naive Persistence,2025-08-19,1980.0,1985.0
+hhs_care_load,Naive Persistence,2025-08-20,1983.0,1980.0
+hhs_care_load,Naive Persistence,2025-08-21,1972.0,1983.0
+hhs_care_load,Naive Persistence,2025-08-24,1981.0,1972.0
+hhs_care_load,Naive Persistence,2025-08-25,1980.0,1981.0
+hhs_care_load,Naive Persistence,2025-08-26,1989.0,1980.0
+hhs_care_load,Naive Persistence,2025-08-27,1988.0,1989.0
+hhs_care_load,Naive Persistence,2025-08-28,1984.0,1988.0
+hhs_care_load,Naive Persistence,2025-09-01,2010.0,1984.0
+hhs_care_load,Naive Persistence,2025-09-02,2020.0,2010.0
+hhs_care_load,Naive Persistence,2025-09-03,2019.0,2020.0
+hhs_care_load,Naive Persistence,2025-09-04,2015.0,2019.0
+hhs_care_load,Naive Persistence,2025-09-07,2026.0,2015.0
+hhs_care_load,Naive Persistence,2025-09-08,2025.0,2026.0
+hhs_care_load,Naive Persistence,2025-09-09,2023.0,2025.0
+hhs_care_load,Naive Persistence,2025-09-10,2025.0,2023.0
+hhs_care_load,Naive Persistence,2025-09-11,2047.0,2025.0
+hhs_care_load,Naive Persistence,2025-09-14,2083.0,2047.0
+hhs_care_load,Naive Persistence,2025-09-15,2086.0,2083.0
+hhs_care_load,Naive Persistence,2025-09-16,2095.0,2086.0
+hhs_care_load,Naive Persistence,2025-09-17,2096.0,2095.0
+hhs_care_load,Naive Persistence,2025-09-18,2096.0,2096.0
+hhs_care_load,Naive Persistence,2025-09-21,2134.0,2096.0
+hhs_care_load,Naive Persistence,2025-09-22,2141.0,2134.0
+hhs_care_load,Naive Persistence,2025-09-23,2145.0,2141.0
+hhs_care_load,Naive Persistence,2025-09-24,2138.0,2145.0
+hhs_care_load,Naive Persistence,2025-09-25,2132.0,2138.0
+hhs_care_load,Naive Persistence,2025-09-28,2146.0,2132.0
+hhs_care_load,Naive Persistence,2025-09-29,2148.0,2146.0
+hhs_care_load,Naive Persistence,2025-09-30,2159.0,2148.0
+hhs_care_load,Naive Persistence,2025-10-01,2163.0,2159.0
+hhs_care_load,Naive Persistence,2025-10-02,2164.0,2163.0
+hhs_care_load,Naive Persistence,2025-10-05,2180.0,2164.0
+hhs_care_load,Naive Persistence,2025-10-06,2187.0,2180.0
+hhs_care_load,Naive Persistence,2025-10-07,2189.0,2187.0
+hhs_care_load,Naive Persistence,2025-10-08,2192.0,2189.0
+hhs_care_load,Naive Persistence,2025-10-09,2192.0,2192.0
+hhs_care_load,Naive Persistence,2025-10-13,2223.0,2192.0
+hhs_care_load,Naive Persistence,2025-10-14,2235.0,2223.0
+hhs_care_load,Naive Persistence,2025-10-15,2225.0,2235.0
+hhs_care_load,Naive Persistence,2025-10-16,2233.0,2225.0
+hhs_care_load,Naive Persistence,2025-10-19,2237.0,2233.0
+hhs_care_load,Naive Persistence,2025-10-20,2243.0,2237.0
+hhs_care_load,Naive Persistence,2025-10-21,2251.0,2243.0
+hhs_care_load,Naive Persistence,2025-10-22,2261.0,2251.0
+hhs_care_load,Naive Persistence,2025-10-23,2266.0,2261.0
+hhs_care_load,Naive Persistence,2025-10-26,2276.0,2266.0
+hhs_care_load,Naive Persistence,2025-10-27,2282.0,2276.0
+hhs_care_load,Naive Persistence,2025-10-28,2286.0,2282.0
+hhs_care_load,Naive Persistence,2025-10-29,2280.0,2286.0
+hhs_care_load,Naive Persistence,2025-10-30,2287.0,2280.0
+hhs_care_load,Naive Persistence,2025-11-02,2277.0,2287.0
+hhs_care_load,Naive Persistence,2025-11-03,2269.0,2277.0
+hhs_care_load,Naive Persistence,2025-11-04,2270.0,2269.0
+hhs_care_load,Naive Persistence,2025-11-05,2272.0,2270.0
+hhs_care_load,Naive Persistence,2025-11-06,2264.0,2272.0
+hhs_care_load,Naive Persistence,2025-11-09,2294.0,2264.0
+hhs_care_load,Naive Persistence,2025-11-11,2294.0,2294.0
+hhs_care_load,Naive Persistence,2025-11-12,2302.0,2294.0
+hhs_care_load,Naive Persistence,2025-11-13,2317.0,2302.0
+hhs_care_load,Naive Persistence,2025-11-16,2340.0,2317.0
+hhs_care_load,Naive Persistence,2025-11-17,2343.0,2340.0
+hhs_care_load,Naive Persistence,2025-11-18,2345.0,2343.0
+hhs_care_load,Naive Persistence,2025-11-19,2340.0,2345.0
+hhs_care_load,Naive Persistence,2025-11-20,2340.0,2340.0
+hhs_care_load,Naive Persistence,2025-11-23,2375.0,2340.0
+hhs_care_load,Naive Persistence,2025-11-24,2371.0,2375.0
+hhs_care_load,Naive Persistence,2025-11-25,2375.0,2371.0
+hhs_care_load,Naive Persistence,2025-11-27,2389.0,2375.0
+hhs_care_load,Naive Persistence,2025-11-30,2415.0,2389.0
+hhs_care_load,Naive Persistence,2025-12-01,2410.0,2415.0
+hhs_care_load,Naive Persistence,2025-12-02,2407.0,2410.0
+hhs_care_load,Naive Persistence,2025-12-03,2419.0,2407.0
+hhs_care_load,Naive Persistence,2025-12-04,2418.0,2419.0
+hhs_care_load,Naive Persistence,2025-12-07,2429.0,2418.0
+hhs_care_load,Naive Persistence,2025-12-08,2440.0,2429.0
+hhs_care_load,Naive Persistence,2025-12-09,2443.0,2440.0
+hhs_care_load,Naive Persistence,2025-12-10,2439.0,2443.0
+hhs_care_load,Naive Persistence,2025-12-11,2437.0,2439.0
+hhs_care_load,Naive Persistence,2025-12-14,2462.0,2437.0
+hhs_care_load,Naive Persistence,2025-12-15,2470.0,2462.0
+hhs_care_load,Naive Persistence,2025-12-16,2468.0,2470.0
+hhs_care_load,Naive Persistence,2025-12-17,2481.0,2468.0
+hhs_care_load,Naive Persistence,2025-12-18,2472.0,2481.0
+hhs_care_load,Naive Persistence,2025-12-21,2484.0,2472.0
+hhs_care_load,Linear Regression,2025-05-18,2437.0,2307.674214450126
+hhs_care_load,Linear Regression,2025-05-19,2457.0,2300.1146017986393
+hhs_care_load,Linear Regression,2025-05-21,2467.0,2561.971158316519
+hhs_care_load,Linear Regression,2025-05-22,2473.0,2429.5084214607123
+hhs_care_load,Linear Regression,2025-05-27,2504.0,2377.581993685031
+hhs_care_load,Linear Regression,2025-05-28,2499.0,2440.329997675406
+hhs_care_load,Linear Regression,2025-05-29,2506.0,2513.8729494567233
+hhs_care_load,Linear Regression,2025-06-01,2528.0,2419.2599672215874
+hhs_care_load,Linear Regression,2025-06-02,2518.0,2405.561076295584
+hhs_care_load,Linear Regression,2025-06-03,2519.0,2639.6600665977603
+hhs_care_load,Linear Regression,2025-06-04,2516.0,2559.616508856001
+hhs_care_load,Linear Regression,2025-06-05,2503.0,2485.1529166389228
+hhs_care_load,Linear Regression,2025-06-08,2507.0,2398.866645452981
+hhs_care_load,Linear Regression,2025-06-09,2516.0,2382.8687391795756
+hhs_care_load,Linear Regression,2025-06-10,2511.0,2608.128706475465
+hhs_care_load,Linear Regression,2025-06-17,2523.0,2547.682919977313
+hhs_care_load,Linear Regression,2025-06-19,2501.0,2400.529682254026
+hhs_care_load,Linear Regression,2025-06-22,2508.0,2387.9457206203806
+hhs_care_load,Linear Regression,2025-06-23,2495.0,2378.906488579065
+hhs_care_load,Linear Regression,2025-06-24,2489.0,2622.5426622371524
+hhs_care_load,Linear Regression,2025-06-25,2470.0,2518.2942605072094
+hhs_care_load,Linear Regression,2025-06-26,2447.0,2435.898751084387
+hhs_care_load,Linear Regression,2025-06-29,2413.0,2349.3297291398558
+hhs_care_load,Linear Regression,2025-06-30,2407.0,2325.5929126867777
+hhs_care_load,Linear Regression,2025-07-01,2391.0,2524.6607262126636
+hhs_care_load,Linear Regression,2025-07-02,2373.0,2454.438867282028
+hhs_care_load,Linear Regression,2025-07-06,2332.0,2360.6064080107826
+hhs_care_load,Linear Regression,2025-07-07,2317.0,2242.705691853924
+hhs_care_load,Linear Regression,2025-07-08,2306.0,2487.725242995257
+hhs_care_load,Linear Regression,2025-07-09,2281.0,2390.7215538701057
+hhs_care_load,Linear Regression,2025-07-10,2252.0,2282.961911428625
+hhs_care_load,Linear Regression,2025-07-13,2204.0,2190.4236076034213
+hhs_care_load,Linear Regression,2025-07-14,2181.0,2169.1944029995066
+hhs_care_load,Linear Regression,2025-07-15,2171.0,2378.8956513662633
+hhs_care_load,Linear Regression,2025-07-16,2164.0,2239.8936332215526
+hhs_care_load,Linear Regression,2025-07-17,2153.0,2162.8484199091545
+hhs_care_load,Linear Regression,2025-07-21,2121.0,2097.8766117308696
+hhs_care_load,Linear Regression,2025-07-22,2117.0,2235.1269255106017
+hhs_care_load,Linear Regression,2025-07-23,2111.0,2203.649942307893
+hhs_care_load,Linear Regression,2025-07-24,2096.0,2116.2616362622794
+hhs_care_load,Linear Regression,2025-07-27,2088.0,2052.485862732865
+hhs_care_load,Linear Regression,2025-07-28,2080.0,2013.7275552427527
+hhs_care_load,Linear Regression,2025-07-29,2072.0,2260.8281338868037
+hhs_care_load,Linear Regression,2025-07-30,2063.0,2169.611391876075
+hhs_care_load,Linear Regression,2025-07-31,2058.0,2083.0297858019258
+hhs_care_load,Linear Regression,2025-08-03,2049.0,2000.182257367429
+hhs_care_load,Linear Regression,2025-08-04,2040.0,1994.759388023158
+hhs_care_load,Linear Regression,2025-08-05,2042.0,2231.6706807242954
+hhs_care_load,Linear Regression,2025-08-06,2036.0,2124.500319022547
+hhs_care_load,Linear Regression,2025-08-07,2031.0,2062.93605882673
+hhs_care_load,Linear Regression,2025-08-10,2006.0,1990.6539046236358
+hhs_care_load,Linear Regression,2025-08-11,1999.0,1982.0994656090843
+hhs_care_load,Linear Regression,2025-08-12,1999.0,2175.410403110611
+hhs_care_load,Linear Regression,2025-08-13,1997.0,2096.23853226722
+hhs_care_load,Linear Regression,2025-08-14,1994.0,2032.2106551365432
+hhs_care_load,Linear Regression,2025-08-17,1991.0,1950.6439401182288
+hhs_care_load,Linear Regression,2025-08-18,1985.0,1952.4924425926583
+hhs_care_load,Linear Regression,2025-08-19,1980.0,2180.181811947652
+hhs_care_load,Linear Regression,2025-08-20,1983.0,2091.5512668366646
+hhs_care_load,Linear Regression,2025-08-21,1972.0,2018.6241315481748
+hhs_care_load,Linear Regression,2025-08-24,1981.0,1956.0944599414433
+hhs_care_load,Linear Regression,2025-08-25,1980.0,1931.7375171132808
+hhs_care_load,Linear Regression,2025-08-26,1989.0,2185.149530807532
+hhs_care_load,Linear Regression,2025-08-27,1988.0,2113.51499092039
+hhs_care_load,Linear Regression,2025-08-28,1984.0,2023.5715079387228
+hhs_care_load,Linear Regression,2025-09-01,2010.0,1955.0582492648755
+hhs_care_load,Linear Regression,2025-09-02,2020.0,2106.6234805133863
+hhs_care_load,Linear Regression,2025-09-03,2019.0,2152.068390302389
+hhs_care_load,Linear Regression,2025-09-04,2015.0,2082.377583356283
+hhs_care_load,Linear Regression,2025-09-07,2026.0,2010.1332445713851
+hhs_care_load,Linear Regression,2025-09-08,2025.0,1995.9806972419683
+hhs_care_load,Linear Regression,2025-09-09,2023.0,2233.0273604201648
+hhs_care_load,Linear Regression,2025-09-10,2025.0,2161.3341229200887
+hhs_care_load,Linear Regression,2025-09-11,2047.0,2065.6982707409334
+hhs_care_load,Linear Regression,2025-09-14,2083.0,2004.2630661011062
+hhs_care_load,Linear Regression,2025-09-15,2086.0,2037.6128224549175
+hhs_care_load,Linear Regression,2025-09-16,2095.0,2304.6949468306702
+hhs_care_load,Linear Regression,2025-09-17,2096.0,2229.5985003223977
+hhs_care_load,Linear Regression,2025-09-18,2096.0,2169.890677630654
+hhs_care_load,Linear Regression,2025-09-21,2134.0,2104.287060947223
+hhs_care_load,Linear Regression,2025-09-22,2141.0,2081.07277169991
+hhs_care_load,Linear Regression,2025-09-23,2145.0,2342.172317423465
+hhs_care_load,Linear Regression,2025-09-24,2138.0,2273.781728492766
+hhs_care_load,Linear Regression,2025-09-25,2132.0,2202.8545714007632
+hhs_care_load,Linear Regression,2025-09-28,2146.0,2128.151966568941
+hhs_care_load,Linear Regression,2025-09-29,2148.0,2107.926308896065
+hhs_care_load,Linear Regression,2025-09-30,2159.0,2350.638242636189
+hhs_care_load,Linear Regression,2025-10-01,2163.0,2263.077827460962
+hhs_care_load,Linear Regression,2025-10-02,2164.0,2221.7793768803385
+hhs_care_load,Linear Regression,2025-10-05,2180.0,2165.7831972230924
+hhs_care_load,Linear Regression,2025-10-06,2187.0,2150.0094301059435
+hhs_care_load,Linear Regression,2025-10-07,2189.0,2388.9452755826787
+hhs_care_load,Linear Regression,2025-10-08,2192.0,2333.8756984571737
+hhs_care_load,Linear Regression,2025-10-09,2192.0,2262.552124498994
+hhs_care_load,Linear Regression,2025-10-13,2223.0,2193.75104925505
+hhs_care_load,Linear Regression,2025-10-14,2235.0,2329.970403813808
+hhs_care_load,Linear Regression,2025-10-15,2225.0,2380.4669088308
+hhs_care_load,Linear Regression,2025-10-16,2233.0,2316.555534361971
+hhs_care_load,Linear Regression,2025-10-19,2237.0,2208.921259114599
+hhs_care_load,Linear Regression,2025-10-20,2243.0,2223.0976302280833
+hhs_care_load,Linear Regression,2025-10-21,2251.0,2435.6847245736135
+hhs_care_load,Linear Regression,2025-10-22,2261.0,2368.0019755456015
+hhs_care_load,Linear Regression,2025-10-23,2266.0,2307.4128762542096
+hhs_care_load,Linear Regression,2025-10-26,2276.0,2247.7625345018896
+hhs_care_load,Linear Regression,2025-10-27,2282.0,2249.9474212271452
+hhs_care_load,Linear Regression,2025-10-28,2286.0,2481.381272600789
+hhs_care_load,Linear Regression,2025-10-29,2280.0,2415.0185343587727
+hhs_care_load,Linear Regression,2025-10-30,2287.0,2350.097003647352
+hhs_care_load,Linear Regression,2025-11-02,2277.0,2259.493510334796
+hhs_care_load,Linear Regression,2025-11-03,2269.0,2261.70716932886
+hhs_care_load,Linear Regression,2025-11-04,2270.0,2472.7736624604368
+hhs_care_load,Linear Regression,2025-11-05,2272.0,2378.334041187569
+hhs_care_load,Linear Regression,2025-11-06,2264.0,2320.4715942339026
+hhs_care_load,Linear Regression,2025-11-09,2294.0,2253.7657184422715
+hhs_care_load,Linear Regression,2025-11-11,2294.0,2235.3059164693477
+hhs_care_load,Linear Regression,2025-11-12,2302.0,2421.8755986068645
+hhs_care_load,Linear Regression,2025-11-13,2317.0,2369.277891792888
+hhs_care_load,Linear Regression,2025-11-16,2340.0,2300.9363968883263
+hhs_care_load,Linear Regression,2025-11-17,2343.0,2301.7381600738154
+hhs_care_load,Linear Regression,2025-11-18,2345.0,2552.940541911339
+hhs_care_load,Linear Regression,2025-11-19,2340.0,2489.1687312196373
+hhs_care_load,Linear Regression,2025-11-20,2340.0,2402.7586301108386
+hhs_care_load,Linear Regression,2025-11-23,2375.0,2348.6107673045117
+hhs_care_load,Linear Regression,2025-11-24,2371.0,2334.62784954151
+hhs_care_load,Linear Regression,2025-11-25,2375.0,2578.769608656665
+hhs_care_load,Linear Regression,2025-11-27,2389.0,2513.021917983373
+hhs_care_load,Linear Regression,2025-11-30,2415.0,2356.4878888295716
+hhs_care_load,Linear Regression,2025-12-01,2410.0,2376.8045845359884
+hhs_care_load,Linear Regression,2025-12-02,2407.0,2650.4694415670674
+hhs_care_load,Linear Regression,2025-12-03,2419.0,2545.7302006416794
+hhs_care_load,Linear Regression,2025-12-04,2418.0,2467.898099677157
+hhs_care_load,Linear Regression,2025-12-07,2429.0,2417.157378388998
+hhs_care_load,Linear Regression,2025-12-08,2440.0,2402.5332804009668
+hhs_care_load,Linear Regression,2025-12-09,2443.0,2632.1749083147297
+hhs_care_load,Linear Regression,2025-12-10,2439.0,2578.8132069789935
+hhs_care_load,Linear Regression,2025-12-11,2437.0,2513.7892700812663
+hhs_care_load,Linear Regression,2025-12-14,2462.0,2435.1349757544012
+hhs_care_load,Linear Regression,2025-12-15,2470.0,2418.180753045941
+hhs_care_load,Linear Regression,2025-12-16,2468.0,2683.419472664573
+hhs_care_load,Linear Regression,2025-12-17,2481.0,2629.429064893913
+hhs_care_load,Linear Regression,2025-12-18,2472.0,2529.729877162943
+hhs_care_load,Linear Regression,2025-12-21,2484.0,2481.626658356865
+hhs_care_load,Random Forest,2025-05-18,2437.0,2391.411807359307
+hhs_care_load,Random Forest,2025-05-19,2457.0,2392.7411182058677
+hhs_care_load,Random Forest,2025-05-21,2467.0,2393.1179793169786
+hhs_care_load,Random Forest,2025-05-22,2473.0,2426.9976238576237
+hhs_care_load,Random Forest,2025-05-27,2504.0,2433.3146065416076
+hhs_care_load,Random Forest,2025-05-28,2499.0,2427.256012626263
+hhs_care_load,Random Forest,2025-05-29,2506.0,2414.392864237615
+hhs_care_load,Random Forest,2025-06-01,2528.0,2388.50280952381
+hhs_care_load,Random Forest,2025-06-02,2518.0,2383.01494047619
+hhs_care_load,Random Forest,2025-06-03,2519.0,2395.561824555076
+hhs_care_load,Random Forest,2025-06-04,2516.0,2374.698256012506
+hhs_care_load,Random Forest,2025-06-05,2503.0,2338.7731608946615
+hhs_care_load,Random Forest,2025-06-08,2507.0,2331.443534030783
+hhs_care_load,Random Forest,2025-06-09,2516.0,2327.4489387926874
+hhs_care_load,Random Forest,2025-06-10,2511.0,2327.923367845118
+hhs_care_load,Random Forest,2025-06-17,2523.0,2331.968515392015
+hhs_care_load,Random Forest,2025-06-19,2501.0,2338.760172558922
+hhs_care_load,Random Forest,2025-06-22,2508.0,2337.5775670995663
+hhs_care_load,Random Forest,2025-06-23,2495.0,2332.793992183742
+hhs_care_load,Random Forest,2025-06-24,2489.0,2330.411621813371
+hhs_care_load,Random Forest,2025-06-25,2470.0,2330.5737893217884
+hhs_care_load,Random Forest,2025-06-26,2447.0,2329.9823170995664
+hhs_care_load,Random Forest,2025-06-29,2413.0,2326.6507067099556
+hhs_care_load,Random Forest,2025-06-30,2407.0,2326.192946127945
+hhs_care_load,Random Forest,2025-07-01,2391.0,2323.2260784030777
+hhs_care_load,Random Forest,2025-07-02,2373.0,2324.8790744348235
+hhs_care_load,Random Forest,2025-07-06,2332.0,2320.0918680856175
+hhs_care_load,Random Forest,2025-07-07,2317.0,2321.923953463203
+hhs_care_load,Random Forest,2025-07-08,2306.0,2325.2176186868687
+hhs_care_load,Random Forest,2025-07-09,2281.0,2321.2941445406445
+hhs_care_load,Random Forest,2025-07-10,2252.0,2305.8806895141893
+hhs_care_load,Random Forest,2025-07-13,2204.0,2290.2146272246277
+hhs_care_load,Random Forest,2025-07-14,2181.0,2277.6905473785478
+hhs_care_load,Random Forest,2025-07-15,2171.0,2222.3176850649365
+hhs_care_load,Random Forest,2025-07-16,2164.0,2207.3388700096198
+hhs_care_load,Random Forest,2025-07-17,2153.0,2190.2348581048577
+hhs_care_load,Random Forest,2025-07-21,2121.0,2188.545000962001
+hhs_care_load,Random Forest,2025-07-22,2117.0,2185.9704907407404
+hhs_care_load,Random Forest,2025-07-23,2111.0,2180.0064375901875
+hhs_care_load,Random Forest,2025-07-24,2096.0,2180.1702846320336
+hhs_care_load,Random Forest,2025-07-27,2088.0,2177.221132395382
+hhs_care_load,Random Forest,2025-07-28,2080.0,2178.7175476190473
+hhs_care_load,Random Forest,2025-07-29,2072.0,2189.877905483406
+hhs_care_load,Random Forest,2025-07-30,2063.0,2186.169957070707
+hhs_care_load,Random Forest,2025-07-31,2058.0,2178.4760258537754
+hhs_care_load,Random Forest,2025-08-03,2049.0,2178.4358949013945
+hhs_care_load,Random Forest,2025-08-04,2040.0,2177.831465007215
+hhs_care_load,Random Forest,2025-08-05,2042.0,2177.410024891775
+hhs_care_load,Random Forest,2025-08-06,2036.0,2181.680024050024
+hhs_care_load,Random Forest,2025-08-07,2031.0,2181.058685545935
+hhs_care_load,Random Forest,2025-08-10,2006.0,2179.791911375661
+hhs_care_load,Random Forest,2025-08-11,1999.0,2178.0504484126973
+hhs_care_load,Random Forest,2025-08-12,1999.0,2178.3305584415575
+hhs_care_load,Random Forest,2025-08-13,1997.0,2183.45481108706
+hhs_care_load,Random Forest,2025-08-14,1994.0,2179.3238921356415
+hhs_care_load,Random Forest,2025-08-17,1991.0,2179.7813755411244
+hhs_care_load,Random Forest,2025-08-18,1985.0,2180.1093398268395
+hhs_care_load,Random Forest,2025-08-19,1980.0,2180.3438350168344
+hhs_care_load,Random Forest,2025-08-20,1983.0,2180.4628588263586
+hhs_care_load,Random Forest,2025-08-21,1972.0,2184.777004329004
+hhs_care_load,Random Forest,2025-08-24,1981.0,2200.7771747234233
+hhs_care_load,Random Forest,2025-08-25,1980.0,2222.330348725348
+hhs_care_load,Random Forest,2025-08-26,1989.0,2189.481218374218
+hhs_care_load,Random Forest,2025-08-27,1988.0,2194.494162578162
+hhs_care_load,Random Forest,2025-08-28,1984.0,2185.6443700096197
+hhs_care_load,Random Forest,2025-09-01,2010.0,2185.2256246993743
+hhs_care_load,Random Forest,2025-09-02,2020.0,2187.9222466329966
+hhs_care_load,Random Forest,2025-09-03,2019.0,2195.248043891294
+hhs_care_load,Random Forest,2025-09-04,2015.0,2189.0461274651275
+hhs_care_load,Random Forest,2025-09-07,2026.0,2192.961309523809
+hhs_care_load,Random Forest,2025-09-08,2025.0,2189.6473082010584
+hhs_care_load,Random Forest,2025-09-09,2023.0,2182.1712022607016
+hhs_care_load,Random Forest,2025-09-10,2025.0,2184.763242664742
+hhs_care_load,Random Forest,2025-09-11,2047.0,2192.3204131794128
+hhs_care_load,Random Forest,2025-09-14,2083.0,2217.494767436267
+hhs_care_load,Random Forest,2025-09-15,2086.0,2229.909127344877
+hhs_care_load,Random Forest,2025-09-16,2095.0,2220.1048985088983
+hhs_care_load,Random Forest,2025-09-17,2096.0,2236.1236212121216
+hhs_care_load,Random Forest,2025-09-18,2096.0,2241.8225221260222
+hhs_care_load,Random Forest,2025-09-21,2134.0,2258.877316378066
+hhs_care_load,Random Forest,2025-09-22,2141.0,2264.312991702742
+hhs_care_load,Random Forest,2025-09-23,2145.0,2258.0654016354015
+hhs_care_load,Random Forest,2025-09-24,2138.0,2230.5191616161615
+hhs_care_load,Random Forest,2025-09-25,2132.0,2207.5046927609424
+hhs_care_load,Random Forest,2025-09-28,2146.0,2211.3297873977876
+hhs_care_load,Random Forest,2025-09-29,2148.0,2199.0903870851366
+hhs_care_load,Random Forest,2025-09-30,2159.0,2225.4577682780177
+hhs_care_load,Random Forest,2025-10-01,2163.0,2208.833665103415
+hhs_care_load,Random Forest,2025-10-02,2164.0,2209.855425565176
+hhs_care_load,Random Forest,2025-10-05,2180.0,2216.896672438673
+hhs_care_load,Random Forest,2025-10-06,2187.0,2261.3816261423767
+hhs_care_load,Random Forest,2025-10-07,2189.0,2248.9206911976917
+hhs_care_load,Random Forest,2025-10-08,2192.0,2255.685572029822
+hhs_care_load,Random Forest,2025-10-09,2192.0,2236.9857896825392
+hhs_care_load,Random Forest,2025-10-13,2223.0,2301.85530952381
+hhs_care_load,Random Forest,2025-10-14,2235.0,2302.434393338144
+hhs_care_load,Random Forest,2025-10-15,2225.0,2280.9983905723902
+hhs_care_load,Random Forest,2025-10-16,2233.0,2238.541894059645
+hhs_care_load,Random Forest,2025-10-19,2237.0,2227.281030543531
+hhs_care_load,Random Forest,2025-10-20,2243.0,2239.139425925927
+hhs_care_load,Random Forest,2025-10-21,2251.0,2274.643120851372
+hhs_care_load,Random Forest,2025-10-22,2261.0,2295.1861991341993
+hhs_care_load,Random Forest,2025-10-23,2266.0,2306.847006854257
+hhs_care_load,Random Forest,2025-10-26,2276.0,2339.563006974507
+hhs_care_load,Random Forest,2025-10-27,2282.0,2341.6521142376155
+hhs_care_load,Random Forest,2025-10-28,2286.0,2337.300537518039
+hhs_care_load,Random Forest,2025-10-29,2280.0,2352.400201779702
+hhs_care_load,Random Forest,2025-10-30,2287.0,2335.4320200817697
+hhs_care_load,Random Forest,2025-11-02,2277.0,2325.970403920154
+hhs_care_load,Random Forest,2025-11-03,2269.0,2310.750827441078
+hhs_care_load,Random Forest,2025-11-04,2270.0,2301.1928841991357
+hhs_care_load,Random Forest,2025-11-05,2272.0,2284.147975348727
+hhs_care_load,Random Forest,2025-11-06,2264.0,2286.8514515392035
+hhs_care_load,Random Forest,2025-11-09,2294.0,2283.703537878789
+hhs_care_load,Random Forest,2025-11-11,2294.0,2282.8169678932204
+hhs_care_load,Random Forest,2025-11-12,2302.0,2312.111883718135
+hhs_care_load,Random Forest,2025-11-13,2317.0,2326.010755411257
+hhs_care_load,Random Forest,2025-11-16,2340.0,2338.4111238576234
+hhs_care_load,Random Forest,2025-11-17,2343.0,2337.0175965608464
+hhs_care_load,Random Forest,2025-11-18,2345.0,2328.5295398027893
+hhs_care_load,Random Forest,2025-11-19,2340.0,2323.914589586339
+hhs_care_load,Random Forest,2025-11-20,2340.0,2322.629950577201
+hhs_care_load,Random Forest,2025-11-23,2375.0,2359.170743025493
+hhs_care_load,Random Forest,2025-11-24,2371.0,2382.7100642135633
+hhs_care_load,Random Forest,2025-11-25,2375.0,2371.378165343915
+hhs_care_load,Random Forest,2025-11-27,2389.0,2378.7597166907162
+hhs_care_load,Random Forest,2025-11-30,2415.0,2352.378701659452
+hhs_care_load,Random Forest,2025-12-01,2410.0,2333.162566137566
+hhs_care_load,Random Forest,2025-12-02,2407.0,2325.2222984607984
+hhs_care_load,Random Forest,2025-12-03,2419.0,2339.4423910533906
+hhs_care_load,Random Forest,2025-12-04,2418.0,2326.142519360268
+hhs_care_load,Random Forest,2025-12-07,2429.0,2332.2930701058203
+hhs_care_load,Random Forest,2025-12-08,2440.0,2332.52608008658
+hhs_care_load,Random Forest,2025-12-09,2443.0,2334.5785582010576
+hhs_care_load,Random Forest,2025-12-10,2439.0,2333.3325406445406
+hhs_care_load,Random Forest,2025-12-11,2437.0,2360.8633238335733
+hhs_care_load,Random Forest,2025-12-14,2462.0,2367.987471500721
+hhs_care_load,Random Forest,2025-12-15,2470.0,2368.7707386964885
+hhs_care_load,Random Forest,2025-12-16,2468.0,2363.4814521404523
+hhs_care_load,Random Forest,2025-12-17,2481.0,2374.247922077922
+hhs_care_load,Random Forest,2025-12-18,2472.0,2384.371691798942
+hhs_care_load,Random Forest,2025-12-21,2484.0,2383.906553631554
+hhs_care_load,HistGradientBoosting,2025-05-18,2437.0,2389.602973208871
+hhs_care_load,HistGradientBoosting,2025-05-19,2457.0,2390.1586352825157
+hhs_care_load,HistGradientBoosting,2025-05-21,2467.0,2401.866699722591
+hhs_care_load,HistGradientBoosting,2025-05-22,2473.0,2449.431291388567
+hhs_care_load,HistGradientBoosting,2025-05-27,2504.0,2387.3066020406245
+hhs_care_load,HistGradientBoosting,2025-05-28,2499.0,2413.626582921117
+hhs_care_load,HistGradientBoosting,2025-05-29,2506.0,2397.614171241475
+hhs_care_load,HistGradientBoosting,2025-06-01,2528.0,2394.72580461716
+hhs_care_load,HistGradientBoosting,2025-06-02,2518.0,2401.3944743098555
+hhs_care_load,HistGradientBoosting,2025-06-03,2519.0,2409.9270935469744
+hhs_care_load,HistGradientBoosting,2025-06-04,2516.0,2349.178337022136
+hhs_care_load,HistGradientBoosting,2025-06-05,2503.0,2362.4523905859355
+hhs_care_load,HistGradientBoosting,2025-06-08,2507.0,2339.748229732132
+hhs_care_load,HistGradientBoosting,2025-06-09,2516.0,2335.1296946873963
+hhs_care_load,HistGradientBoosting,2025-06-10,2511.0,2345.936081594311
+hhs_care_load,HistGradientBoosting,2025-06-17,2523.0,2342.919834747038
+hhs_care_load,HistGradientBoosting,2025-06-19,2501.0,2329.914132219372
+hhs_care_load,HistGradientBoosting,2025-06-22,2508.0,2336.204966273023
+hhs_care_load,HistGradientBoosting,2025-06-23,2495.0,2330.3897105143883
+hhs_care_load,HistGradientBoosting,2025-06-24,2489.0,2317.4398633746755
+hhs_care_load,HistGradientBoosting,2025-06-25,2470.0,2328.4425705218355
+hhs_care_load,HistGradientBoosting,2025-06-26,2447.0,2326.5427340427764
+hhs_care_load,HistGradientBoosting,2025-06-29,2413.0,2323.547120924806
+hhs_care_load,HistGradientBoosting,2025-06-30,2407.0,2329.4759213355296
+hhs_care_load,HistGradientBoosting,2025-07-01,2391.0,2316.176485742192
+hhs_care_load,HistGradientBoosting,2025-07-02,2373.0,2323.7644334313645
+hhs_care_load,HistGradientBoosting,2025-07-06,2332.0,2324.526055458001
+hhs_care_load,HistGradientBoosting,2025-07-07,2317.0,2319.3189956457345
+hhs_care_load,HistGradientBoosting,2025-07-08,2306.0,2314.1211052040885
+hhs_care_load,HistGradientBoosting,2025-07-09,2281.0,2311.3252196453213
+hhs_care_load,HistGradientBoosting,2025-07-10,2252.0,2293.404070480465
+hhs_care_load,HistGradientBoosting,2025-07-13,2204.0,2268.8240623155452
+hhs_care_load,HistGradientBoosting,2025-07-14,2181.0,2251.033591893446
+hhs_care_load,HistGradientBoosting,2025-07-15,2171.0,2175.4109416601823
+hhs_care_load,HistGradientBoosting,2025-07-16,2164.0,2185.3343365172086
+hhs_care_load,HistGradientBoosting,2025-07-17,2153.0,2169.685750311074
+hhs_care_load,HistGradientBoosting,2025-07-21,2121.0,2164.790300714045
+hhs_care_load,HistGradientBoosting,2025-07-22,2117.0,2166.2261715080444
+hhs_care_load,HistGradientBoosting,2025-07-23,2111.0,2167.785913832015
+hhs_care_load,HistGradientBoosting,2025-07-24,2096.0,2181.986414506643
+hhs_care_load,HistGradientBoosting,2025-07-27,2088.0,2164.790300714045
+hhs_care_load,HistGradientBoosting,2025-07-28,2080.0,2180.9368769474368
+hhs_care_load,HistGradientBoosting,2025-07-29,2072.0,2187.472686460521
+hhs_care_load,HistGradientBoosting,2025-07-30,2063.0,2181.0215511899387
+hhs_care_load,HistGradientBoosting,2025-07-31,2058.0,2182.921387668998
+hhs_care_load,HistGradientBoosting,2025-08-03,2049.0,2178.0259380719685
+hhs_care_load,HistGradientBoosting,2025-08-04,2040.0,2190.4154809509537
+hhs_care_load,HistGradientBoosting,2025-08-05,2042.0,2170.9713224777643
+hhs_care_load,HistGradientBoosting,2025-08-06,2036.0,2186.28669943857
+hhs_care_load,HistGradientBoosting,2025-08-07,2031.0,2188.247963944913
+hhs_care_load,HistGradientBoosting,2025-08-10,2006.0,2183.3525143478837
+hhs_care_load,HistGradientBoosting,2025-08-11,1999.0,2184.2847989580023
+hhs_care_load,HistGradientBoosting,2025-08-12,1999.0,2187.4141049884806
+hhs_care_load,HistGradientBoosting,2025-08-13,1997.0,2185.3343365172086
+hhs_care_load,HistGradientBoosting,2025-08-14,1994.0,2186.575798946047
+hhs_care_load,HistGradientBoosting,2025-08-17,1991.0,2184.064250558483
+hhs_care_load,HistGradientBoosting,2025-08-18,1985.0,2184.2735497930935
+hhs_care_load,HistGradientBoosting,2025-08-19,1980.0,2185.6587387468594
+hhs_care_load,HistGradientBoosting,2025-08-20,1983.0,2186.2580605146545
+hhs_care_load,HistGradientBoosting,2025-08-21,1972.0,2183.01323689483
+hhs_care_load,HistGradientBoosting,2025-08-24,1981.0,2223.5846750659025
+hhs_care_load,HistGradientBoosting,2025-08-25,1980.0,2183.308686476389
+hhs_care_load,HistGradientBoosting,2025-08-26,1989.0,2184.4775836664057
+hhs_care_load,HistGradientBoosting,2025-08-27,1988.0,2181.1637300697003
+hhs_care_load,HistGradientBoosting,2025-08-28,1984.0,2185.8386418706823
+hhs_care_load,HistGradientBoosting,2025-09-01,2010.0,2185.2809488333023
+hhs_care_load,HistGradientBoosting,2025-09-02,2020.0,2194.3111080171866
+hhs_care_load,HistGradientBoosting,2025-09-03,2019.0,2188.452612821449
+hhs_care_load,HistGradientBoosting,2025-09-04,2015.0,2202.1627729394277
+hhs_care_load,HistGradientBoosting,2025-09-07,2026.0,2199.2081711317774
+hhs_care_load,HistGradientBoosting,2025-09-08,2025.0,2194.259635309038
+hhs_care_load,HistGradientBoosting,2025-09-09,2023.0,2173.5711133013056
+hhs_care_load,HistGradientBoosting,2025-09-10,2025.0,2183.8065789179796
+hhs_care_load,HistGradientBoosting,2025-09-11,2047.0,2182.8913580276508
+hhs_care_load,HistGradientBoosting,2025-09-14,2083.0,2184.8834962596848
+hhs_care_load,HistGradientBoosting,2025-09-15,2086.0,2198.593352186415
+hhs_care_load,HistGradientBoosting,2025-09-16,2095.0,2223.1773382473057
+hhs_care_load,HistGradientBoosting,2025-09-17,2096.0,2219.7315654396025
+hhs_care_load,HistGradientBoosting,2025-09-18,2096.0,2254.7526017461296
+hhs_care_load,HistGradientBoosting,2025-09-21,2134.0,2294.1298389723825
+hhs_care_load,HistGradientBoosting,2025-09-22,2141.0,2237.402146147991
+hhs_care_load,HistGradientBoosting,2025-09-23,2145.0,2278.131920717846
+hhs_care_load,HistGradientBoosting,2025-09-24,2138.0,2217.692270085975
+hhs_care_load,HistGradientBoosting,2025-09-25,2132.0,2199.317373363567
+hhs_care_load,HistGradientBoosting,2025-09-28,2146.0,2212.0954703605557
+hhs_care_load,HistGradientBoosting,2025-09-29,2148.0,2191.7441753366043
+hhs_care_load,HistGradientBoosting,2025-09-30,2159.0,2220.020764516746
+hhs_care_load,HistGradientBoosting,2025-10-01,2163.0,2217.174146353954
+hhs_care_load,HistGradientBoosting,2025-10-02,2164.0,2227.1497708104393
+hhs_care_load,HistGradientBoosting,2025-10-05,2180.0,2264.5943399575685
+hhs_care_load,HistGradientBoosting,2025-10-06,2187.0,2211.301004271486
+hhs_care_load,HistGradientBoosting,2025-10-07,2189.0,2230.7612104812747
+hhs_care_load,HistGradientBoosting,2025-10-08,2192.0,2216.390433261532
+hhs_care_load,HistGradientBoosting,2025-10-09,2192.0,2258.6440238965797
+hhs_care_load,HistGradientBoosting,2025-10-13,2223.0,2257.8473805990398
+hhs_care_load,HistGradientBoosting,2025-10-14,2235.0,2217.8293501739417
+hhs_care_load,HistGradientBoosting,2025-10-15,2225.0,2236.1004881199974
+hhs_care_load,HistGradientBoosting,2025-10-16,2233.0,2248.99708100754
+hhs_care_load,HistGradientBoosting,2025-10-19,2237.0,2191.379124946498
+hhs_care_load,HistGradientBoosting,2025-10-20,2243.0,2232.488079898177
+hhs_care_load,HistGradientBoosting,2025-10-21,2251.0,2257.731869191984
+hhs_care_load,HistGradientBoosting,2025-10-22,2261.0,2258.3988310085592
+hhs_care_load,HistGradientBoosting,2025-10-23,2266.0,2297.8482721882137
+hhs_care_load,HistGradientBoosting,2025-10-26,2276.0,2334.51923810164
+hhs_care_load,HistGradientBoosting,2025-10-27,2282.0,2337.4769587520104
+hhs_care_load,HistGradientBoosting,2025-10-28,2286.0,2343.0024746584377
+hhs_care_load,HistGradientBoosting,2025-10-29,2280.0,2340.912649517126
+hhs_care_load,HistGradientBoosting,2025-10-30,2287.0,2318.1230699976472
+hhs_care_load,HistGradientBoosting,2025-11-02,2277.0,2296.1286547697837
+hhs_care_load,HistGradientBoosting,2025-11-03,2269.0,2319.5793735126663
+hhs_care_load,HistGradientBoosting,2025-11-04,2270.0,2294.3937194690175
+hhs_care_load,HistGradientBoosting,2025-11-05,2272.0,2271.6673320951936
+hhs_care_load,HistGradientBoosting,2025-11-06,2264.0,2271.206889645587
+hhs_care_load,HistGradientBoosting,2025-11-09,2294.0,2268.211276527617
+hhs_care_load,HistGradientBoosting,2025-11-11,2294.0,2265.5094576405195
+hhs_care_load,HistGradientBoosting,2025-11-12,2302.0,2308.26138069668
+hhs_care_load,HistGradientBoosting,2025-11-13,2317.0,2342.633567986254
+hhs_care_load,HistGradientBoosting,2025-11-16,2340.0,2298.325960134983
+hhs_care_load,HistGradientBoosting,2025-11-17,2343.0,2337.8761876304575
+hhs_care_load,HistGradientBoosting,2025-11-18,2345.0,2332.6143493264353
+hhs_care_load,HistGradientBoosting,2025-11-19,2340.0,2319.918888199816
+hhs_care_load,HistGradientBoosting,2025-11-20,2340.0,2332.0324991250563
+hhs_care_load,HistGradientBoosting,2025-11-23,2375.0,2362.867151167271
+hhs_care_load,HistGradientBoosting,2025-11-24,2371.0,2318.2352959024483
+hhs_care_load,HistGradientBoosting,2025-11-25,2375.0,2345.427624162829
+hhs_care_load,HistGradientBoosting,2025-11-27,2389.0,2321.5821160816577
+hhs_care_load,HistGradientBoosting,2025-11-30,2415.0,2326.8445173115438
+hhs_care_load,HistGradientBoosting,2025-12-01,2410.0,2333.0553764290307
+hhs_care_load,HistGradientBoosting,2025-12-02,2407.0,2340.1579030953735
+hhs_care_load,HistGradientBoosting,2025-12-03,2419.0,2339.868516149642
+hhs_care_load,HistGradientBoosting,2025-12-04,2418.0,2335.604620385587
+hhs_care_load,HistGradientBoosting,2025-12-07,2429.0,2331.52094233392
+hhs_care_load,HistGradientBoosting,2025-12-08,2440.0,2327.4343614003105
+hhs_care_load,HistGradientBoosting,2025-12-09,2443.0,2328.7289059343025
+hhs_care_load,HistGradientBoosting,2025-12-10,2439.0,2331.273647439581
+hhs_care_load,HistGradientBoosting,2025-12-11,2437.0,2373.1977975928708
+hhs_care_load,HistGradientBoosting,2025-12-14,2462.0,2320.8965869570156
+hhs_care_load,HistGradientBoosting,2025-12-15,2470.0,2349.417443045872
+hhs_care_load,HistGradientBoosting,2025-12-16,2468.0,2332.880976446297
+hhs_care_load,HistGradientBoosting,2025-12-17,2481.0,2372.418250126721
+hhs_care_load,HistGradientBoosting,2025-12-18,2472.0,2329.13719346005
+hhs_care_load,HistGradientBoosting,2025-12-21,2484.0,2394.132180058785
+hhs_discharges,Naive Persistence,2025-05-18,9.0,14.0
+hhs_discharges,Naive Persistence,2025-05-19,6.0,9.0
+hhs_discharges,Naive Persistence,2025-05-21,18.0,6.0
+hhs_discharges,Naive Persistence,2025-05-22,15.0,18.0
+hhs_discharges,Naive Persistence,2025-05-27,11.0,15.0
+hhs_discharges,Naive Persistence,2025-05-28,14.0,11.0
+hhs_discharges,Naive Persistence,2025-05-29,11.0,14.0
+hhs_discharges,Naive Persistence,2025-06-01,12.0,11.0
+hhs_discharges,Naive Persistence,2025-06-02,16.0,12.0
+hhs_discharges,Naive Persistence,2025-06-03,15.0,16.0
+hhs_discharges,Naive Persistence,2025-06-04,16.0,15.0
+hhs_discharges,Naive Persistence,2025-06-05,21.0,16.0
+hhs_discharges,Naive Persistence,2025-06-08,13.0,21.0
+hhs_discharges,Naive Persistence,2025-06-09,9.0,13.0
+hhs_discharges,Naive Persistence,2025-06-10,12.0,9.0
+hhs_discharges,Naive Persistence,2025-06-17,14.0,12.0
+hhs_discharges,Naive Persistence,2025-06-19,18.0,14.0
+hhs_discharges,Naive Persistence,2025-06-22,7.0,18.0
+hhs_discharges,Naive Persistence,2025-06-23,17.0,7.0
+hhs_discharges,Naive Persistence,2025-06-24,16.0,17.0
+hhs_discharges,Naive Persistence,2025-06-25,24.0,16.0
+hhs_discharges,Naive Persistence,2025-06-26,35.0,24.0
+hhs_discharges,Naive Persistence,2025-06-29,20.0,35.0
+hhs_discharges,Naive Persistence,2025-06-30,16.0,20.0
+hhs_discharges,Naive Persistence,2025-07-01,22.0,16.0
+hhs_discharges,Naive Persistence,2025-07-02,38.0,22.0
+hhs_discharges,Naive Persistence,2025-07-06,8.0,38.0
+hhs_discharges,Naive Persistence,2025-07-07,20.0,8.0
+hhs_discharges,Naive Persistence,2025-07-08,20.0,20.0
+hhs_discharges,Naive Persistence,2025-07-09,32.0,20.0
+hhs_discharges,Naive Persistence,2025-07-10,39.0,32.0
+hhs_discharges,Naive Persistence,2025-07-13,10.0,39.0
+hhs_discharges,Naive Persistence,2025-07-14,26.0,10.0
+hhs_discharges,Naive Persistence,2025-07-15,17.0,26.0
+hhs_discharges,Naive Persistence,2025-07-16,11.0,17.0
+hhs_discharges,Naive Persistence,2025-07-17,17.0,11.0
+hhs_discharges,Naive Persistence,2025-07-21,16.0,17.0
+hhs_discharges,Naive Persistence,2025-07-22,16.0,16.0
+hhs_discharges,Naive Persistence,2025-07-23,14.0,16.0
+hhs_discharges,Naive Persistence,2025-07-24,29.0,14.0
+hhs_discharges,Naive Persistence,2025-07-27,4.0,29.0
+hhs_discharges,Naive Persistence,2025-07-28,14.0,4.0
+hhs_discharges,Naive Persistence,2025-07-29,12.0,14.0
+hhs_discharges,Naive Persistence,2025-07-30,16.0,12.0
+hhs_discharges,Naive Persistence,2025-07-31,15.0,16.0
+hhs_discharges,Naive Persistence,2025-08-03,5.0,15.0
+hhs_discharges,Naive Persistence,2025-08-04,14.0,5.0
+hhs_discharges,Naive Persistence,2025-08-05,14.0,14.0
+hhs_discharges,Naive Persistence,2025-08-06,13.0,14.0
+hhs_discharges,Naive Persistence,2025-08-07,17.0,13.0
+hhs_discharges,Naive Persistence,2025-08-10,12.0,17.0
+hhs_discharges,Naive Persistence,2025-08-11,16.0,12.0
+hhs_discharges,Naive Persistence,2025-08-12,9.0,16.0
+hhs_discharges,Naive Persistence,2025-08-13,17.0,9.0
+hhs_discharges,Naive Persistence,2025-08-14,11.0,17.0
+hhs_discharges,Naive Persistence,2025-08-17,3.0,11.0
+hhs_discharges,Naive Persistence,2025-08-18,14.0,3.0
+hhs_discharges,Naive Persistence,2025-08-19,11.0,14.0
+hhs_discharges,Naive Persistence,2025-08-20,10.0,11.0
+hhs_discharges,Naive Persistence,2025-08-21,21.0,10.0
+hhs_discharges,Naive Persistence,2025-08-24,5.0,21.0
+hhs_discharges,Naive Persistence,2025-08-25,11.0,5.0
+hhs_discharges,Naive Persistence,2025-08-26,15.0,11.0
+hhs_discharges,Naive Persistence,2025-08-27,19.0,15.0
+hhs_discharges,Naive Persistence,2025-08-28,17.0,19.0
+hhs_discharges,Naive Persistence,2025-09-01,5.0,17.0
+hhs_discharges,Naive Persistence,2025-09-02,9.0,5.0
+hhs_discharges,Naive Persistence,2025-09-03,10.0,9.0
+hhs_discharges,Naive Persistence,2025-09-04,14.0,10.0
+hhs_discharges,Naive Persistence,2025-09-07,7.0,14.0
+hhs_discharges,Naive Persistence,2025-09-08,6.0,7.0
+hhs_discharges,Naive Persistence,2025-09-09,14.0,6.0
+hhs_discharges,Naive Persistence,2025-09-10,18.0,14.0
+hhs_discharges,Naive Persistence,2025-09-11,6.0,18.0
+hhs_discharges,Naive Persistence,2025-09-14,5.0,6.0
+hhs_discharges,Naive Persistence,2025-09-15,10.0,5.0
+hhs_discharges,Naive Persistence,2025-09-16,12.0,10.0
+hhs_discharges,Naive Persistence,2025-09-17,13.0,12.0
+hhs_discharges,Naive Persistence,2025-09-18,14.0,13.0
+hhs_discharges,Naive Persistence,2025-09-21,5.0,14.0
+hhs_discharges,Naive Persistence,2025-09-22,10.0,5.0
+hhs_discharges,Naive Persistence,2025-09-23,15.0,10.0
+hhs_discharges,Naive Persistence,2025-09-24,17.0,15.0
+hhs_discharges,Naive Persistence,2025-09-25,18.0,17.0
+hhs_discharges,Naive Persistence,2025-09-28,9.0,18.0
+hhs_discharges,Naive Persistence,2025-09-29,13.0,9.0
+hhs_discharges,Naive Persistence,2025-09-30,7.0,13.0
+hhs_discharges,Naive Persistence,2025-10-01,14.0,7.0
+hhs_discharges,Naive Persistence,2025-10-02,16.0,14.0
+hhs_discharges,Naive Persistence,2025-10-05,16.0,16.0
+hhs_discharges,Naive Persistence,2025-10-06,10.0,16.0
+hhs_discharges,Naive Persistence,2025-10-07,10.0,10.0
+hhs_discharges,Naive Persistence,2025-10-08,17.0,10.0
+hhs_discharges,Naive Persistence,2025-10-09,12.0,17.0
+hhs_discharges,Naive Persistence,2025-10-13,6.0,12.0
+hhs_discharges,Naive Persistence,2025-10-14,8.0,6.0
+hhs_discharges,Naive Persistence,2025-10-15,15.0,8.0
+hhs_discharges,Naive Persistence,2025-10-16,9.0,15.0
+hhs_discharges,Naive Persistence,2025-10-19,7.0,9.0
+hhs_discharges,Naive Persistence,2025-10-20,7.0,7.0
+hhs_discharges,Naive Persistence,2025-10-21,9.0,7.0
+hhs_discharges,Naive Persistence,2025-10-22,12.0,9.0
+hhs_discharges,Naive Persistence,2025-10-23,18.0,12.0
+hhs_discharges,Naive Persistence,2025-10-26,10.0,18.0
+hhs_discharges,Naive Persistence,2025-10-27,11.0,10.0
+hhs_discharges,Naive Persistence,2025-10-28,6.0,11.0
+hhs_discharges,Naive Persistence,2025-10-29,17.0,6.0
+hhs_discharges,Naive Persistence,2025-10-30,12.0,17.0
+hhs_discharges,Naive Persistence,2025-11-02,7.0,12.0
+hhs_discharges,Naive Persistence,2025-11-03,12.0,7.0
+hhs_discharges,Naive Persistence,2025-11-04,8.0,12.0
+hhs_discharges,Naive Persistence,2025-11-05,7.0,8.0
+hhs_discharges,Naive Persistence,2025-11-06,19.0,7.0
+hhs_discharges,Naive Persistence,2025-11-09,4.0,19.0
+hhs_discharges,Naive Persistence,2025-11-11,14.0,4.0
+hhs_discharges,Naive Persistence,2025-11-12,7.0,14.0
+hhs_discharges,Naive Persistence,2025-11-13,5.0,7.0
+hhs_discharges,Naive Persistence,2025-11-16,5.0,5.0
+hhs_discharges,Naive Persistence,2025-11-17,8.0,5.0
+hhs_discharges,Naive Persistence,2025-11-18,12.0,8.0
+hhs_discharges,Naive Persistence,2025-11-19,10.0,12.0
+hhs_discharges,Naive Persistence,2025-11-20,9.0,10.0
+hhs_discharges,Naive Persistence,2025-11-23,1.0,9.0
+hhs_discharges,Naive Persistence,2025-11-24,13.0,1.0
+hhs_discharges,Naive Persistence,2025-11-25,11.0,13.0
+hhs_discharges,Naive Persistence,2025-11-27,7.0,11.0
+hhs_discharges,Naive Persistence,2025-11-30,0.0,7.0
+hhs_discharges,Naive Persistence,2025-12-01,9.0,0.0
+hhs_discharges,Naive Persistence,2025-12-02,8.0,9.0
+hhs_discharges,Naive Persistence,2025-12-03,7.0,8.0
+hhs_discharges,Naive Persistence,2025-12-04,13.0,7.0
+hhs_discharges,Naive Persistence,2025-12-07,12.0,13.0
+hhs_discharges,Naive Persistence,2025-12-08,4.0,12.0
+hhs_discharges,Naive Persistence,2025-12-09,8.0,4.0
+hhs_discharges,Naive Persistence,2025-12-10,9.0,8.0
+hhs_discharges,Naive Persistence,2025-12-11,10.0,9.0
+hhs_discharges,Naive Persistence,2025-12-14,8.0,10.0
+hhs_discharges,Naive Persistence,2025-12-15,7.0,8.0
+hhs_discharges,Naive Persistence,2025-12-16,9.0,7.0
+hhs_discharges,Naive Persistence,2025-12-17,10.0,9.0
+hhs_discharges,Naive Persistence,2025-12-18,16.0,10.0
+hhs_discharges,Naive Persistence,2025-12-21,14.0,16.0
+hhs_discharges,Linear Regression,2025-05-18,9.0,41.339962811151054
+hhs_discharges,Linear Regression,2025-05-19,6.0,8.357221263664542
+hhs_discharges,Linear Regression,2025-05-21,18.0,0.0
+hhs_discharges,Linear Regression,2025-05-22,15.0,31.365277429074922
+hhs_discharges,Linear Regression,2025-05-27,11.0,44.8149398021269
+hhs_discharges,Linear Regression,2025-05-28,14.0,0.0
+hhs_discharges,Linear Regression,2025-05-29,11.0,30.27650954839919
+hhs_discharges,Linear Regression,2025-06-01,12.0,49.865231744341145
+hhs_discharges,Linear Regression,2025-06-02,16.0,2.2735594521655003
+hhs_discharges,Linear Regression,2025-06-03,15.0,0.0
+hhs_discharges,Linear Regression,2025-06-04,16.0,2.940699501952622
+hhs_discharges,Linear Regression,2025-06-05,21.0,23.245656476035947
+hhs_discharges,Linear Regression,2025-06-08,13.0,39.51516460933635
+hhs_discharges,Linear Regression,2025-06-09,9.0,2.7379952844275977
+hhs_discharges,Linear Regression,2025-06-10,12.0,0.0
+hhs_discharges,Linear Regression,2025-06-17,14.0,12.890833191966522
+hhs_discharges,Linear Regression,2025-06-19,18.0,0.0
+hhs_discharges,Linear Regression,2025-06-22,7.0,40.319009223763715
+hhs_discharges,Linear Regression,2025-06-23,17.0,5.175155125296442
+hhs_discharges,Linear Regression,2025-06-24,16.0,0.0
+hhs_discharges,Linear Regression,2025-06-25,24.0,13.644570566670154
+hhs_discharges,Linear Regression,2025-06-26,35.0,27.184482316704816
+hhs_discharges,Linear Regression,2025-06-29,20.0,42.73179979017732
+hhs_discharges,Linear Regression,2025-06-30,16.0,4.103129765935591
+hhs_discharges,Linear Regression,2025-07-01,22.0,0.0
+hhs_discharges,Linear Regression,2025-07-02,38.0,5.069942783520673
+hhs_discharges,Linear Regression,2025-07-06,8.0,16.162659003559384
+hhs_discharges,Linear Regression,2025-07-07,20.0,0.0
+hhs_discharges,Linear Regression,2025-07-08,20.0,0.0
+hhs_discharges,Linear Regression,2025-07-09,32.0,0.0
+hhs_discharges,Linear Regression,2025-07-10,39.0,12.17742456477572
+hhs_discharges,Linear Regression,2025-07-13,10.0,25.74325945875171
+hhs_discharges,Linear Regression,2025-07-14,26.0,0.0
+hhs_discharges,Linear Regression,2025-07-15,17.0,0.0
+hhs_discharges,Linear Regression,2025-07-16,11.0,0.0
+hhs_discharges,Linear Regression,2025-07-17,17.0,7.591525441959675
+hhs_discharges,Linear Regression,2025-07-21,16.0,25.50510731824761
+hhs_discharges,Linear Regression,2025-07-22,16.0,0.0
+hhs_discharges,Linear Regression,2025-07-23,14.0,0.0
+hhs_discharges,Linear Regression,2025-07-24,29.0,6.32643375776388
+hhs_discharges,Linear Regression,2025-07-27,4.0,22.880684015413863
+hhs_discharges,Linear Regression,2025-07-28,14.0,0.0
+hhs_discharges,Linear Regression,2025-07-29,12.0,0.0
+hhs_discharges,Linear Regression,2025-07-30,16.0,0.0
+hhs_discharges,Linear Regression,2025-07-31,15.0,4.312772599121672
+hhs_discharges,Linear Regression,2025-08-03,5.0,21.31921141636849
+hhs_discharges,Linear Regression,2025-08-04,14.0,0.0
+hhs_discharges,Linear Regression,2025-08-05,14.0,0.0
+hhs_discharges,Linear Regression,2025-08-06,13.0,0.0
+hhs_discharges,Linear Regression,2025-08-07,17.0,0.0
+hhs_discharges,Linear Regression,2025-08-10,12.0,10.038821986156108
+hhs_discharges,Linear Regression,2025-08-11,16.0,0.0
+hhs_discharges,Linear Regression,2025-08-12,9.0,0.0
+hhs_discharges,Linear Regression,2025-08-13,17.0,0.0
+hhs_discharges,Linear Regression,2025-08-14,11.0,0.0
+hhs_discharges,Linear Regression,2025-08-17,3.0,8.061266049007827
+hhs_discharges,Linear Regression,2025-08-18,14.0,0.0
+hhs_discharges,Linear Regression,2025-08-19,11.0,0.0
+hhs_discharges,Linear Regression,2025-08-20,10.0,0.0
+hhs_discharges,Linear Regression,2025-08-21,21.0,0.0
+hhs_discharges,Linear Regression,2025-08-24,5.0,9.003523945029883
+hhs_discharges,Linear Regression,2025-08-25,11.0,0.0
+hhs_discharges,Linear Regression,2025-08-26,15.0,0.0
+hhs_discharges,Linear Regression,2025-08-27,19.0,0.0
+hhs_discharges,Linear Regression,2025-08-28,17.0,0.0
+hhs_discharges,Linear Regression,2025-09-01,5.0,8.957447739994677
+hhs_discharges,Linear Regression,2025-09-02,9.0,0.0
+hhs_discharges,Linear Regression,2025-09-03,10.0,0.0
+hhs_discharges,Linear Regression,2025-09-04,14.0,0.0
+hhs_discharges,Linear Regression,2025-09-07,7.0,0.0
+hhs_discharges,Linear Regression,2025-09-08,6.0,0.0
+hhs_discharges,Linear Regression,2025-09-09,14.0,0.0
+hhs_discharges,Linear Regression,2025-09-10,18.0,0.0
+hhs_discharges,Linear Regression,2025-09-11,6.0,0.0
+hhs_discharges,Linear Regression,2025-09-14,5.0,5.2878223574662115
+hhs_discharges,Linear Regression,2025-09-15,10.0,0.0
+hhs_discharges,Linear Regression,2025-09-16,12.0,0.0
+hhs_discharges,Linear Regression,2025-09-17,13.0,0.0
+hhs_discharges,Linear Regression,2025-09-18,14.0,0.0
+hhs_discharges,Linear Regression,2025-09-21,5.0,4.567715470213443
+hhs_discharges,Linear Regression,2025-09-22,10.0,0.0
+hhs_discharges,Linear Regression,2025-09-23,15.0,0.0
+hhs_discharges,Linear Regression,2025-09-24,17.0,0.0
+hhs_discharges,Linear Regression,2025-09-25,18.0,0.0
+hhs_discharges,Linear Regression,2025-09-28,9.0,10.327444231435948
+hhs_discharges,Linear Regression,2025-09-29,13.0,0.0
+hhs_discharges,Linear Regression,2025-09-30,7.0,0.0
+hhs_discharges,Linear Regression,2025-10-01,14.0,0.0
+hhs_discharges,Linear Regression,2025-10-02,16.0,0.0
+hhs_discharges,Linear Regression,2025-10-05,16.0,4.1952826037377235
+hhs_discharges,Linear Regression,2025-10-06,10.0,0.0
+hhs_discharges,Linear Regression,2025-10-07,10.0,0.0
+hhs_discharges,Linear Regression,2025-10-08,17.0,0.0
+hhs_discharges,Linear Regression,2025-10-09,12.0,0.0
+hhs_discharges,Linear Regression,2025-10-13,6.0,5.480892347673944
+hhs_discharges,Linear Regression,2025-10-14,8.0,0.0
+hhs_discharges,Linear Regression,2025-10-15,15.0,0.0
+hhs_discharges,Linear Regression,2025-10-16,9.0,0.0
+hhs_discharges,Linear Regression,2025-10-19,7.0,8.771873614932701
+hhs_discharges,Linear Regression,2025-10-20,7.0,0.0
+hhs_discharges,Linear Regression,2025-10-21,9.0,0.0
+hhs_discharges,Linear Regression,2025-10-22,12.0,0.0
+hhs_discharges,Linear Regression,2025-10-23,18.0,0.0
+hhs_discharges,Linear Regression,2025-10-26,10.0,13.921597172397014
+hhs_discharges,Linear Regression,2025-10-27,11.0,0.0
+hhs_discharges,Linear Regression,2025-10-28,6.0,0.0
+hhs_discharges,Linear Regression,2025-10-29,17.0,0.0
+hhs_discharges,Linear Regression,2025-10-30,12.0,0.0
+hhs_discharges,Linear Regression,2025-11-02,7.0,12.86687581318256
+hhs_discharges,Linear Regression,2025-11-03,12.0,0.0
+hhs_discharges,Linear Regression,2025-11-04,8.0,0.0
+hhs_discharges,Linear Regression,2025-11-05,7.0,0.0
+hhs_discharges,Linear Regression,2025-11-06,19.0,0.0
+hhs_discharges,Linear Regression,2025-11-09,4.0,8.531485353814787
+hhs_discharges,Linear Regression,2025-11-11,14.0,0.0
+hhs_discharges,Linear Regression,2025-11-12,7.0,0.0
+hhs_discharges,Linear Regression,2025-11-13,5.0,0.0
+hhs_discharges,Linear Regression,2025-11-16,5.0,7.878186682610249
+hhs_discharges,Linear Regression,2025-11-17,8.0,0.0
+hhs_discharges,Linear Regression,2025-11-18,12.0,0.0
+hhs_discharges,Linear Regression,2025-11-19,10.0,0.0
+hhs_discharges,Linear Regression,2025-11-20,9.0,0.0
+hhs_discharges,Linear Regression,2025-11-23,1.0,8.658110647556896
+hhs_discharges,Linear Regression,2025-11-24,13.0,0.0
+hhs_discharges,Linear Regression,2025-11-25,11.0,0.0
+hhs_discharges,Linear Regression,2025-11-27,7.0,0.0
+hhs_discharges,Linear Regression,2025-11-30,0.0,6.4804476988792885
+hhs_discharges,Linear Regression,2025-12-01,9.0,0.0
+hhs_discharges,Linear Regression,2025-12-02,8.0,0.0
+hhs_discharges,Linear Regression,2025-12-03,7.0,0.0
+hhs_discharges,Linear Regression,2025-12-04,13.0,0.0
+hhs_discharges,Linear Regression,2025-12-07,12.0,8.409811175151845
+hhs_discharges,Linear Regression,2025-12-08,4.0,0.0
+hhs_discharges,Linear Regression,2025-12-09,8.0,0.0
+hhs_discharges,Linear Regression,2025-12-10,9.0,0.0
+hhs_discharges,Linear Regression,2025-12-11,10.0,0.0
+hhs_discharges,Linear Regression,2025-12-14,8.0,9.755017938085075
+hhs_discharges,Linear Regression,2025-12-15,7.0,0.0
+hhs_discharges,Linear Regression,2025-12-16,9.0,0.0
+hhs_discharges,Linear Regression,2025-12-17,10.0,0.0
+hhs_discharges,Linear Regression,2025-12-18,16.0,0.0
+hhs_discharges,Linear Regression,2025-12-21,14.0,9.670803152948793
+hhs_discharges,Random Forest,2025-05-18,9.0,11.301215136715134
+hhs_discharges,Random Forest,2025-05-19,6.0,11.334964896214894
+hhs_discharges,Random Forest,2025-05-21,18.0,12.695160302660296
+hhs_discharges,Random Forest,2025-05-22,15.0,19.182555204055202
+hhs_discharges,Random Forest,2025-05-27,11.0,38.48254616679615
+hhs_discharges,Random Forest,2025-05-28,14.0,31.712676277426272
+hhs_discharges,Random Forest,2025-05-29,11.0,19.999350196100185
+hhs_discharges,Random Forest,2025-06-01,12.0,19.571897093647095
+hhs_discharges,Random Forest,2025-06-02,16.0,19.593108826358833
+hhs_discharges,Random Forest,2025-06-03,15.0,17.40771993746994
+hhs_discharges,Random Forest,2025-06-04,16.0,18.733946867946873
+hhs_discharges,Random Forest,2025-06-05,21.0,16.30564925814926
+hhs_discharges,Random Forest,2025-06-08,13.0,17.86253538128538
+hhs_discharges,Random Forest,2025-06-09,9.0,16.601060994560992
+hhs_discharges,Random Forest,2025-06-10,12.0,17.15780313205312
+hhs_discharges,Random Forest,2025-06-17,14.0,18.298936507936507
+hhs_discharges,Random Forest,2025-06-19,18.0,17.28532854182854
+hhs_discharges,Random Forest,2025-06-22,7.0,16.978714923964915
+hhs_discharges,Random Forest,2025-06-23,17.0,16.799322899322902
+hhs_discharges,Random Forest,2025-06-24,16.0,17.327676665926663
+hhs_discharges,Random Forest,2025-06-25,24.0,17.618793549043538
+hhs_discharges,Random Forest,2025-06-26,35.0,17.40479282754282
+hhs_discharges,Random Forest,2025-06-29,20.0,18.36958853183853
+hhs_discharges,Random Forest,2025-06-30,16.0,18.23376289451289
+hhs_discharges,Random Forest,2025-07-01,22.0,18.14958022533022
+hhs_discharges,Random Forest,2025-07-02,38.0,18.391108003108002
+hhs_discharges,Random Forest,2025-07-06,8.0,18.352560393310394
+hhs_discharges,Random Forest,2025-07-07,20.0,18.035034900284895
+hhs_discharges,Random Forest,2025-07-08,20.0,17.644732221482215
+hhs_discharges,Random Forest,2025-07-09,32.0,18.065798238798244
+hhs_discharges,Random Forest,2025-07-10,39.0,18.39038445813446
+hhs_discharges,Random Forest,2025-07-13,10.0,17.087264698264693
+hhs_discharges,Random Forest,2025-07-14,26.0,15.846733793983782
+hhs_discharges,Random Forest,2025-07-15,17.0,13.99233648758649
+hhs_discharges,Random Forest,2025-07-16,11.0,9.99836544011544
+hhs_discharges,Random Forest,2025-07-17,17.0,9.137154040404038
+hhs_discharges,Random Forest,2025-07-21,16.0,8.470975589225588
+hhs_discharges,Random Forest,2025-07-22,16.0,7.936296777296778
+hhs_discharges,Random Forest,2025-07-23,14.0,7.964466570466572
+hhs_discharges,Random Forest,2025-07-24,29.0,8.119040644540645
+hhs_discharges,Random Forest,2025-07-27,4.0,7.253849326599323
+hhs_discharges,Random Forest,2025-07-28,14.0,8.64658573833574
+hhs_discharges,Random Forest,2025-07-29,12.0,8.340495550745556
+hhs_discharges,Random Forest,2025-07-30,16.0,8.236912578162581
+hhs_discharges,Random Forest,2025-07-31,15.0,8.381342111592113
+hhs_discharges,Random Forest,2025-08-03,5.0,7.213168229918228
+hhs_discharges,Random Forest,2025-08-04,14.0,8.897556277056276
+hhs_discharges,Random Forest,2025-08-05,14.0,7.966545214045218
+hhs_discharges,Random Forest,2025-08-06,13.0,7.566484247234249
+hhs_discharges,Random Forest,2025-08-07,17.0,7.9033125300625295
+hhs_discharges,Random Forest,2025-08-10,12.0,7.035360389610388
+hhs_discharges,Random Forest,2025-08-11,16.0,7.174695887445887
+hhs_discharges,Random Forest,2025-08-12,9.0,7.503932299182302
+hhs_discharges,Random Forest,2025-08-13,17.0,7.663463924963929
+hhs_discharges,Random Forest,2025-08-14,11.0,7.9000537518037515
+hhs_discharges,Random Forest,2025-08-17,3.0,8.936495670995669
+hhs_discharges,Random Forest,2025-08-18,14.0,7.136239177489174
+hhs_discharges,Random Forest,2025-08-19,11.0,7.558813482813486
+hhs_discharges,Random Forest,2025-08-20,10.0,8.302463795463794
+hhs_discharges,Random Forest,2025-08-21,21.0,9.317322020572021
+hhs_discharges,Random Forest,2025-08-24,5.0,10.491002164502166
+hhs_discharges,Random Forest,2025-08-25,11.0,28.7198200965701
+hhs_discharges,Random Forest,2025-08-26,15.0,21.527167258667255
+hhs_discharges,Random Forest,2025-08-27,19.0,8.278721731971736
+hhs_discharges,Random Forest,2025-08-28,17.0,8.590847994597995
+hhs_discharges,Random Forest,2025-09-01,5.0,9.978884189884187
+hhs_discharges,Random Forest,2025-09-02,9.0,8.468933381433384
+hhs_discharges,Random Forest,2025-09-03,10.0,9.98784114034114
+hhs_discharges,Random Forest,2025-09-04,14.0,9.354241101491104
+hhs_discharges,Random Forest,2025-09-07,7.0,8.113581289081292
+hhs_discharges,Random Forest,2025-09-08,6.0,9.21310702260703
+hhs_discharges,Random Forest,2025-09-09,14.0,7.699275012025017
+hhs_discharges,Random Forest,2025-09-10,18.0,7.947012746512749
+hhs_discharges,Random Forest,2025-09-11,6.0,16.575736763236765
+hhs_discharges,Random Forest,2025-09-14,5.0,29.865911246161243
+hhs_discharges,Random Forest,2025-09-15,10.0,25.03098495948495
+hhs_discharges,Random Forest,2025-09-16,12.0,12.829733275983275
+hhs_discharges,Random Forest,2025-09-17,13.0,26.504007215007217
+hhs_discharges,Random Forest,2025-09-18,14.0,20.89504196729195
+hhs_discharges,Random Forest,2025-09-21,5.0,11.526714165464167
+hhs_discharges,Random Forest,2025-09-22,10.0,28.405283309283313
+hhs_discharges,Random Forest,2025-09-23,15.0,23.411494098494078
+hhs_discharges,Random Forest,2025-09-24,17.0,12.771446840196838
+hhs_discharges,Random Forest,2025-09-25,18.0,11.408432289932291
+hhs_discharges,Random Forest,2025-09-28,9.0,8.915009740259743
+hhs_discharges,Random Forest,2025-09-29,13.0,9.364192279942285
+hhs_discharges,Random Forest,2025-09-30,7.0,10.084598484848486
+hhs_discharges,Random Forest,2025-10-01,14.0,9.414515632515634
+hhs_discharges,Random Forest,2025-10-02,16.0,8.708327080327082
+hhs_discharges,Random Forest,2025-10-05,16.0,10.303555194805195
+hhs_discharges,Random Forest,2025-10-06,10.0,27.803107263107275
+hhs_discharges,Random Forest,2025-10-07,10.0,20.941451539201527
+hhs_discharges,Random Forest,2025-10-08,17.0,7.927120971620973
+hhs_discharges,Random Forest,2025-10-09,12.0,26.280313612313602
+hhs_discharges,Random Forest,2025-10-13,6.0,42.32640691715693
+hhs_discharges,Random Forest,2025-10-14,8.0,37.27044264069264
+hhs_discharges,Random Forest,2025-10-15,15.0,23.927894892144874
+hhs_discharges,Random Forest,2025-10-16,9.0,8.299621091871096
+hhs_discharges,Random Forest,2025-10-19,7.0,10.297502876752873
+hhs_discharges,Random Forest,2025-10-20,7.0,8.872662457912464
+hhs_discharges,Random Forest,2025-10-21,9.0,10.724404872904872
+hhs_discharges,Random Forest,2025-10-22,12.0,10.17509944684945
+hhs_discharges,Random Forest,2025-10-23,18.0,9.487431697931704
+hhs_discharges,Random Forest,2025-10-26,10.0,20.529760461760457
+hhs_discharges,Random Forest,2025-10-27,11.0,9.506080808080808
+hhs_discharges,Random Forest,2025-10-28,6.0,10.564867724867723
+hhs_discharges,Random Forest,2025-10-29,17.0,10.4274215969216
+hhs_discharges,Random Forest,2025-10-30,12.0,9.301402227402232
+hhs_discharges,Random Forest,2025-11-02,7.0,8.356846681096684
+hhs_discharges,Random Forest,2025-11-03,12.0,8.988860620860624
+hhs_discharges,Random Forest,2025-11-04,8.0,9.839294853294849
+hhs_discharges,Random Forest,2025-11-05,7.0,8.379588383838385
+hhs_discharges,Random Forest,2025-11-06,19.0,8.495227994227998
+hhs_discharges,Random Forest,2025-11-09,4.0,11.027886123136122
+hhs_discharges,Random Forest,2025-11-11,14.0,10.331386835386837
+hhs_discharges,Random Forest,2025-11-12,7.0,10.931322131572134
+hhs_discharges,Random Forest,2025-11-13,5.0,12.372094997595001
+hhs_discharges,Random Forest,2025-11-16,5.0,32.5770078162578
+hhs_discharges,Random Forest,2025-11-17,8.0,22.32706890331891
+hhs_discharges,Random Forest,2025-11-18,12.0,11.316069615569614
+hhs_discharges,Random Forest,2025-11-19,10.0,10.496755402005402
+hhs_discharges,Random Forest,2025-11-20,9.0,12.38931997631997
+hhs_discharges,Random Forest,2025-11-23,1.0,11.885482924482922
+hhs_discharges,Random Forest,2025-11-24,13.0,31.3097506012506
+hhs_discharges,Random Forest,2025-11-25,11.0,37.31774277574277
+hhs_discharges,Random Forest,2025-11-27,7.0,27.015255392755375
+hhs_discharges,Random Forest,2025-11-30,0.0,34.39578366078364
+hhs_discharges,Random Forest,2025-12-01,9.0,22.569355339105346
+hhs_discharges,Random Forest,2025-12-02,8.0,13.298286657786646
+hhs_discharges,Random Forest,2025-12-03,7.0,13.503510323010321
+hhs_discharges,Random Forest,2025-12-04,13.0,18.483248806748804
+hhs_discharges,Random Forest,2025-12-07,12.0,15.889848642098642
+hhs_discharges,Random Forest,2025-12-08,4.0,18.390951816701822
+hhs_discharges,Random Forest,2025-12-09,8.0,18.290503737003732
+hhs_discharges,Random Forest,2025-12-10,9.0,19.380946516446517
+hhs_discharges,Random Forest,2025-12-11,10.0,19.990584572834567
+hhs_discharges,Random Forest,2025-12-14,8.0,36.1632693880194
+hhs_discharges,Random Forest,2025-12-15,7.0,49.15500300625302
+hhs_discharges,Random Forest,2025-12-16,9.0,30.722019591519576
+hhs_discharges,Random Forest,2025-12-17,10.0,26.96826324601324
+hhs_discharges,Random Forest,2025-12-18,16.0,39.033358946608935
+hhs_discharges,Random Forest,2025-12-21,14.0,34.97753006253006
+hhs_discharges,HistGradientBoosting,2025-05-18,9.0,14.44518504666437
+hhs_discharges,HistGradientBoosting,2025-05-19,6.0,12.019586787315115
+hhs_discharges,HistGradientBoosting,2025-05-21,18.0,13.506261322872739
+hhs_discharges,HistGradientBoosting,2025-05-22,15.0,13.230800987652186
+hhs_discharges,HistGradientBoosting,2025-05-27,11.0,28.766024439269394
+hhs_discharges,HistGradientBoosting,2025-05-28,14.0,29.124917430227946
+hhs_discharges,HistGradientBoosting,2025-05-29,11.0,14.659480013566636
+hhs_discharges,HistGradientBoosting,2025-06-01,12.0,13.43224102159205
+hhs_discharges,HistGradientBoosting,2025-06-02,16.0,13.108557586952946
+hhs_discharges,HistGradientBoosting,2025-06-03,15.0,13.27866169610626
+hhs_discharges,HistGradientBoosting,2025-06-04,16.0,17.012237532297686
+hhs_discharges,HistGradientBoosting,2025-06-05,21.0,15.739351153900838
+hhs_discharges,HistGradientBoosting,2025-06-08,13.0,18.138619089905752
+hhs_discharges,HistGradientBoosting,2025-06-09,9.0,13.315775943613156
+hhs_discharges,HistGradientBoosting,2025-06-10,12.0,15.16820374155485
+hhs_discharges,HistGradientBoosting,2025-06-17,14.0,16.68639270865052
+hhs_discharges,HistGradientBoosting,2025-06-19,18.0,15.784938035880518
+hhs_discharges,HistGradientBoosting,2025-06-22,7.0,14.237992463910832
+hhs_discharges,HistGradientBoosting,2025-06-23,17.0,14.076956171046977
+hhs_discharges,HistGradientBoosting,2025-06-24,16.0,12.435356356385265
+hhs_discharges,HistGradientBoosting,2025-06-25,24.0,17.748473251420013
+hhs_discharges,HistGradientBoosting,2025-06-26,35.0,16.36324670619653
+hhs_discharges,HistGradientBoosting,2025-06-29,20.0,17.125322677239673
+hhs_discharges,HistGradientBoosting,2025-06-30,16.0,17.828896745000804
+hhs_discharges,HistGradientBoosting,2025-07-01,22.0,18.237317906761906
+hhs_discharges,HistGradientBoosting,2025-07-02,38.0,19.824338124537878
+hhs_discharges,HistGradientBoosting,2025-07-06,8.0,19.187710918346802
+hhs_discharges,HistGradientBoosting,2025-07-07,20.0,19.48260855204481
+hhs_discharges,HistGradientBoosting,2025-07-08,20.0,22.70523871138188
+hhs_discharges,HistGradientBoosting,2025-07-09,32.0,25.317334729618192
+hhs_discharges,HistGradientBoosting,2025-07-10,39.0,16.868723628892237
+hhs_discharges,HistGradientBoosting,2025-07-13,10.0,14.704367561315932
+hhs_discharges,HistGradientBoosting,2025-07-14,26.0,18.928208158585488
+hhs_discharges,HistGradientBoosting,2025-07-15,17.0,22.807995820704136
+hhs_discharges,HistGradientBoosting,2025-07-16,11.0,20.522563335483838
+hhs_discharges,HistGradientBoosting,2025-07-17,17.0,10.008559977019118
+hhs_discharges,HistGradientBoosting,2025-07-21,16.0,8.92001242642369
+hhs_discharges,HistGradientBoosting,2025-07-22,16.0,8.566328865215006
+hhs_discharges,HistGradientBoosting,2025-07-23,14.0,8.486892846596351
+hhs_discharges,HistGradientBoosting,2025-07-24,29.0,11.95847737465577
+hhs_discharges,HistGradientBoosting,2025-07-27,4.0,8.92001242642369
+hhs_discharges,HistGradientBoosting,2025-07-28,14.0,8.116891332213825
+hhs_discharges,HistGradientBoosting,2025-07-29,12.0,12.168294685549448
+hhs_discharges,HistGradientBoosting,2025-07-30,16.0,11.897610166544098
+hhs_discharges,HistGradientBoosting,2025-07-31,15.0,8.967505134220632
+hhs_discharges,HistGradientBoosting,2025-08-03,5.0,9.079281510868697
+hhs_discharges,HistGradientBoosting,2025-08-04,14.0,8.340426725490865
+hhs_discharges,HistGradientBoosting,2025-08-05,14.0,8.401864392374957
+hhs_discharges,HistGradientBoosting,2025-08-06,13.0,8.780912771464646
+hhs_discharges,HistGradientBoosting,2025-08-07,17.0,8.665094623382137
+hhs_discharges,HistGradientBoosting,2025-08-10,12.0,8.143964383900975
+hhs_discharges,HistGradientBoosting,2025-08-11,16.0,8.469496340859106
+hhs_discharges,HistGradientBoosting,2025-08-12,9.0,10.368643131138155
+hhs_discharges,HistGradientBoosting,2025-08-13,17.0,11.317893394808308
+hhs_discharges,HistGradientBoosting,2025-08-14,11.0,9.598195476477418
+hhs_discharges,HistGradientBoosting,2025-08-17,3.0,10.735287959850764
+hhs_discharges,HistGradientBoosting,2025-08-18,14.0,6.758037902726358
+hhs_discharges,HistGradientBoosting,2025-08-19,11.0,8.552031967179149
+hhs_discharges,HistGradientBoosting,2025-08-20,10.0,8.610328065580386
+hhs_discharges,HistGradientBoosting,2025-08-21,21.0,10.217447733446917
+hhs_discharges,HistGradientBoosting,2025-08-24,5.0,9.455255621768687
+hhs_discharges,HistGradientBoosting,2025-08-25,11.0,21.858241770715054
+hhs_discharges,HistGradientBoosting,2025-08-26,15.0,22.525321806864426
+hhs_discharges,HistGradientBoosting,2025-08-27,19.0,9.453380933880554
+hhs_discharges,HistGradientBoosting,2025-08-28,17.0,7.506831511442731
+hhs_discharges,HistGradientBoosting,2025-09-01,5.0,12.14846723007738
+hhs_discharges,HistGradientBoosting,2025-09-02,9.0,6.562203033468454
+hhs_discharges,HistGradientBoosting,2025-09-03,10.0,8.316240737776427
+hhs_discharges,HistGradientBoosting,2025-09-04,14.0,9.014630327985873
+hhs_discharges,HistGradientBoosting,2025-09-07,7.0,8.74786343534452
+hhs_discharges,HistGradientBoosting,2025-09-08,6.0,3.876478160590113
+hhs_discharges,HistGradientBoosting,2025-09-09,14.0,7.74701274296446
+hhs_discharges,HistGradientBoosting,2025-09-10,18.0,7.698248185109571
+hhs_discharges,HistGradientBoosting,2025-09-11,6.0,9.127497424848737
+hhs_discharges,HistGradientBoosting,2025-09-14,5.0,23.341604586213364
+hhs_discharges,HistGradientBoosting,2025-09-15,10.0,29.50480259692773
+hhs_discharges,HistGradientBoosting,2025-09-16,12.0,14.630270199451077
+hhs_discharges,HistGradientBoosting,2025-09-17,13.0,25.287043927891197
+hhs_discharges,HistGradientBoosting,2025-09-18,14.0,31.14894304333992
+hhs_discharges,HistGradientBoosting,2025-09-21,5.0,12.80323866075269
+hhs_discharges,HistGradientBoosting,2025-09-22,10.0,21.379802018936754
+hhs_discharges,HistGradientBoosting,2025-09-23,15.0,26.74414265886274
+hhs_discharges,HistGradientBoosting,2025-09-24,17.0,7.685704752755801
+hhs_discharges,HistGradientBoosting,2025-09-25,18.0,10.286560872382855
+hhs_discharges,HistGradientBoosting,2025-09-28,9.0,10.38336328750231
+hhs_discharges,HistGradientBoosting,2025-09-29,13.0,8.625711701478608
+hhs_discharges,HistGradientBoosting,2025-09-30,7.0,8.632553738784015
+hhs_discharges,HistGradientBoosting,2025-10-01,14.0,8.447464966840403
+hhs_discharges,HistGradientBoosting,2025-10-02,16.0,9.019500725445868
+hhs_discharges,HistGradientBoosting,2025-10-05,16.0,9.03675469123468
+hhs_discharges,HistGradientBoosting,2025-10-06,10.0,16.91821352132544
+hhs_discharges,HistGradientBoosting,2025-10-07,10.0,22.246437719771933
+hhs_discharges,HistGradientBoosting,2025-10-08,17.0,7.570675901515934
+hhs_discharges,HistGradientBoosting,2025-10-09,12.0,19.495704434578208
+hhs_discharges,HistGradientBoosting,2025-10-13,6.0,39.352696715835464
+hhs_discharges,HistGradientBoosting,2025-10-14,8.0,29.866680267096612
+hhs_discharges,HistGradientBoosting,2025-10-15,15.0,25.69580568457979
+hhs_discharges,HistGradientBoosting,2025-10-16,9.0,7.614561812504131
+hhs_discharges,HistGradientBoosting,2025-10-19,7.0,8.246735329894173
+hhs_discharges,HistGradientBoosting,2025-10-20,7.0,5.226972092460137
+hhs_discharges,HistGradientBoosting,2025-10-21,9.0,7.10654269086178
+hhs_discharges,HistGradientBoosting,2025-10-22,12.0,7.702721371544102
+hhs_discharges,HistGradientBoosting,2025-10-23,18.0,7.8189681822596455
+hhs_discharges,HistGradientBoosting,2025-10-26,10.0,8.858098379754372
+hhs_discharges,HistGradientBoosting,2025-10-27,11.0,5.890001714854047
+hhs_discharges,HistGradientBoosting,2025-10-28,6.0,6.3447824767771825
+hhs_discharges,HistGradientBoosting,2025-10-29,17.0,10.669971133469216
+hhs_discharges,HistGradientBoosting,2025-10-30,12.0,11.992873106871233
+hhs_discharges,HistGradientBoosting,2025-11-02,7.0,11.408468226506235
+hhs_discharges,HistGradientBoosting,2025-11-03,12.0,8.840991755093862
+hhs_discharges,HistGradientBoosting,2025-11-04,8.0,10.271931756453013
+hhs_discharges,HistGradientBoosting,2025-11-05,7.0,5.726154169093183
+hhs_discharges,HistGradientBoosting,2025-11-06,19.0,5.311444608819161
+hhs_discharges,HistGradientBoosting,2025-11-09,4.0,4.9500248840666545
+hhs_discharges,HistGradientBoosting,2025-11-11,14.0,5.044287142755197
+hhs_discharges,HistGradientBoosting,2025-11-12,7.0,3.410013574334548
+hhs_discharges,HistGradientBoosting,2025-11-13,5.0,8.905735900427542
+hhs_discharges,HistGradientBoosting,2025-11-16,5.0,18.110317451491703
+hhs_discharges,HistGradientBoosting,2025-11-17,8.0,21.1831757973656
+hhs_discharges,HistGradientBoosting,2025-11-18,12.0,8.351277335922461
+hhs_discharges,HistGradientBoosting,2025-11-19,10.0,5.954672608936483
+hhs_discharges,HistGradientBoosting,2025-11-20,9.0,7.087005291309405
+hhs_discharges,HistGradientBoosting,2025-11-23,1.0,10.740437776155668
+hhs_discharges,HistGradientBoosting,2025-11-24,13.0,15.71560454491325
+hhs_discharges,HistGradientBoosting,2025-11-25,11.0,33.31116849712725
+hhs_discharges,HistGradientBoosting,2025-11-27,7.0,26.905419067953357
+hhs_discharges,HistGradientBoosting,2025-11-30,0.0,17.004851030149272
+hhs_discharges,HistGradientBoosting,2025-12-01,9.0,19.25035988590199
+hhs_discharges,HistGradientBoosting,2025-12-02,8.0,6.65098019419787
+hhs_discharges,HistGradientBoosting,2025-12-03,7.0,7.322444830750264
+hhs_discharges,HistGradientBoosting,2025-12-04,13.0,6.505016667257231
+hhs_discharges,HistGradientBoosting,2025-12-07,12.0,7.467581398378401
+hhs_discharges,HistGradientBoosting,2025-12-08,4.0,3.3355619363481175
+hhs_discharges,HistGradientBoosting,2025-12-09,8.0,6.376349552357252
+hhs_discharges,HistGradientBoosting,2025-12-10,9.0,9.24673825141197
+hhs_discharges,HistGradientBoosting,2025-12-11,10.0,8.381928389370707
+hhs_discharges,HistGradientBoosting,2025-12-14,8.0,18.816735991906683
+hhs_discharges,HistGradientBoosting,2025-12-15,7.0,35.191686850276
+hhs_discharges,HistGradientBoosting,2025-12-16,9.0,24.719778886011362
+hhs_discharges,HistGradientBoosting,2025-12-17,10.0,10.731690890369556
+hhs_discharges,HistGradientBoosting,2025-12-18,16.0,21.789750492904624
+hhs_discharges,HistGradientBoosting,2025-12-21,14.0,28.150597852913105
