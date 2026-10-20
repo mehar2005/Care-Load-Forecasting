@@ -98,15 +98,4 @@ After rebuilding outputs, launch the dashboard again. Review the generated repor
 
 ## 7. Data source
 
-HHS Unaccompanied Alien Children Program dataset. Check the official catalogue for the latest available source file before updating the analysis: https://catalog.data.gov/dataset/hhs-unaccompanied-alien-children-program
-
-## 8. Final local verification
-
-Before submission:
-
-1. Install the requirements in a fresh virtual environment.
-2. Run `streamlit run app.py`.
-3. Confirm the dashboard loads without errors.
-4. Test both target views, all three forecast horizons, charts, and CSV downloads.
-5. Confirm the report and figures are present in the extracted folder.
-6. Be ready to explain the stale data date, missing dates, baseline model choice, and uncertainty limitations honestly.
+HHS Unaccompanied Alien Children Program dataset. Check the official catalogue for the latest available source file before updating the analysis: https://catalog.data.gov/dataset/hhs-unaccompanied-alien-children-program.
